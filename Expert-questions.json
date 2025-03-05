@@ -1,0 +1,83 @@
+[
+    
+    {
+      "Q": "¿Cuáles son los principales componentes metodológicos para identificar y medir los riesgos ESG?",
+      "A": "Se emplean metodologías combinadas basadas en exposición, análisis sectorial, evaluación de cartera y estudios de escenarios, permitiendo valorar tanto riesgos de transición como físicos."
+    },
+    {
+      "Q": "¿Cómo debe realizarse la evaluación de materialidad en el contexto ESG?",
+      "A": "La evaluación debe ser específica a cada institución, integrando análisis cualitativos y cuantitativos, y mapeando los factores ESG con sus canales de transmisión a los riesgos tradicionales."
+    },
+    {
+      "Q": "¿Qué criterios se utilizan para determinar la materialidad de un riesgo ESG?",
+      "A": "Se consideran la probabilidad de ocurrencia, la magnitud del impacto financiero, la exposición y la relevancia para la estrategia de la institución."
+    },
+    {
+      "Q": "¿Cómo se integran los riesgos ESG en los procesos de ICAAP e ILAAP?",
+      "A": "Las instituciones deben incorporar evaluaciones de riesgos ESG en sus procesos de adecuación de capital y liquidez, ajustando horizontes temporales y metodologías para reflejar estos riesgos."
+    },
+    {
+      "Q": "¿Qué papel juegan los análisis de escenarios en la gestión de riesgos ESG?",
+      "A": "Permiten evaluar la resiliencia de la institución frente a distintos escenarios adversos, integrando variables ambientales y sociales para ajustar estrategias y requerimientos de capital."
+    },
+    {
+      "Q": "¿Cuáles son los desafíos en la obtención y calidad de datos para evaluar riesgos ESG?",
+      "A": "Se destaca la escasez de datos históricos, la variabilidad en la calidad de la información y la necesidad de recurrir a proxies o estimaciones para completar lagunas informativas."
+    },
+    {
+      "Q": "¿Qué implicaciones tiene la integración de riesgos ESG en el apetito de riesgo de una institución?",
+      "A": "Debe reflejarse en la definición de límites, umbrales y KRIs específicos, adaptando el apetito de riesgo a la materialidad y complejidad de los factores ESG."
+    },
+    {
+      "Q": "¿Cómo se aplican las metodologías de alineación de cartera en el análisis ESG?",
+      "A": "Estas metodologías miden el grado de alineación de las carteras con trayectorias de transición y escenarios de sostenibilidad, identificando concentraciones de riesgo y desviaciones significativas."
+    },
+    {
+      "Q": "¿Qué importancia tienen las evaluaciones de vulnerabilidad a riesgos físicos?",
+      "A": "Son esenciales para determinar la exposición geográfica y la sensibilidad de activos críticos frente a eventos físicos, lo que informa sobre la resiliencia y necesidad de medidas de mitigación."
+    },
+    {
+      "Q": "¿De qué forma se integran los riesgos de transición en los modelos de scoring crediticio?",
+      "A": "Se incorporan variables relacionadas con emisiones, eficiencia energética y políticas de transición, ajustando la evaluación crediticia a la exposición ESG de la contraparte."
+    },
+    {
+      "Q": "¿Qué medidas de mitigación se recomiendan para gestionar riesgos ESG en carteras crediticias?",
+      "A": "Entre ellas se encuentran ajustes en condiciones financieras, diversificación, establecimiento de límites sectoriales y el engagement para mejorar las prácticas ESG de las contrapartes."
+    },
+    {
+      "Q": "¿Cómo deben documentarse las metodologías y supuestos en la evaluación ESG?",
+      "A": "Es imprescindible justificar la elección de escenarios, criterios de selección y cualquier cambio metodológico, garantizando transparencia y consistencia en los procesos internos."
+    },
+    {
+      "Q": "¿Qué rol desempeñan los KRIs en la monitorización de riesgos ESG?",
+      "A": "Los KRIs permiten establecer límites operativos y alertas tempranas, facilitando el seguimiento continuo y la gestión proactiva de las exposiciones ESG."
+    },
+    {
+      "Q": "¿Cómo se deben integrar los riesgos ESG en la estructura de gobernanza interna?",
+      "A": "Se deben asignar responsabilidades claras, fomentar la capacitación en temas ESG y establecer controles y reportes que integren estos riesgos en el sistema de gobierno corporativo."
+    },
+    {
+      "Q": "¿Qué papel tienen los datos externos y de terceros en la evaluación de riesgos ESG?",
+      "A": "Son fundamentales para complementar la información interna, utilizando reportes de sostenibilidad, estándares internacionales y datos comparativos para enriquecer el análisis."
+    },
+    {
+      "Q": "¿Cómo se aborda la incertidumbre inherente a la medición de riesgos ESG?",
+      "A": "Mediante análisis de sensibilidad, escenarios alternativos y ajustes en la planificación de capital, para mitigar la incertidumbre derivada de la falta de datos históricos completos."
+    },
+    {
+      "Q": "¿Qué implicaciones regulatorias tienen estas directrices ESG para las instituciones financieras?",
+      "A": "Implican la incorporación de riesgos ESG en la gestión interna, la presentación de informes y el ajuste en la estructura de capital y gobernanza, en línea con las exigencias regulatorias."
+    },
+    {
+      "Q": "¿Cómo se relaciona el análisis ESG con los objetivos de sostenibilidad a largo plazo?",
+      "A": "Permite a las instituciones alinear sus estrategias de riesgo con metas de sostenibilidad, anticipando cambios regulatorios y de mercado que aseguren la resiliencia a largo plazo."
+    },
+    {
+      "Q": "¿Qué papel desempeñan los planes de transición en la mitigación de riesgos ESG?",
+      "A": "Son fundamentales para definir acciones concretas, establecer hitos y adaptar las estrategias a horizontes de 10 años o más, reduciendo la exposición a riesgos emergentes."
+    },
+    {
+      "Q": "¿Cómo puede la integración de riesgos ESG mejorar la competitividad de una institución?",
+      "A": "Al gestionar proactivamente estos riesgos, las instituciones optimizan su estructura de riesgo, refuerzan su imagen corporativa y se preparan mejor para futuras exigencias regulatorias, mejorando su posición en el mercado."
+    }
+  ]

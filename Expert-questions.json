@@ -79,5 +79,85 @@
     {
       "Q": "¿Cómo puede la integración de riesgos ESG mejorar la competitividad de una institución?",
       "A": "Al gestionar proactivamente estos riesgos, las instituciones optimizan su estructura de riesgo, refuerzan su imagen corporativa y se preparan mejor para futuras exigencias regulatorias, mejorando su posición en el mercado."
+    },
+     {
+      "Q": "¿Cuál es la fecha de aplicación de las directrices para instituciones grandes y para SNCIs?",
+      "A": "Las directrices entran en vigor el 11 de enero de 2026 para instituciones grandes y, a más tardar, el 11 de enero de 2027 para pequeñas y no complejas (SNCIs)."
+    },
+    {
+      "Q": "¿De qué forma se aborda el principio de proporcionalidad en la gestión de riesgos ESG según estas directrices?",
+      "A": "Se aplica considerando la materialidad de los riesgos en función de la actividad y complejidad de la institución, permitiendo ajustar la frecuencia y el alcance de evaluaciones y metodologías según el tamaño y exposición."
+    },
+    {
+      "Q": "¿Qué cambios legislativos han impulsado la emisión de estas directrices ESG?",
+      "A": "Las directrices responden a modificaciones introducidas en el CRD y el CRR, así como a iniciativas como la European Green Deal, el Acuerdo de París y otros marcos regulatorios orientados hacia una economía sostenible."
+    },
+    {
+      "Q": "¿Cómo se integra el análisis de riesgos ESG en la evaluación de riesgos operacionales y reputacionales?",
+      "A": "Se incorporan identificando los factores ESG que pueden impactar las operaciones y la imagen institucional, integrándolos en modelos de riesgo que evalúan tanto efectos directos como indirectos sobre la operatividad y reputación."
+    },
+    {
+      "Q": "¿Qué papel juegan las directrices ESG en la estrategia de transición de las instituciones financieras?",
+      "A": "Establecen un marco para desarrollar planes de transición con objetivos, hitos y medidas de mitigación, alineando la estrategia corporativa con los objetivos de sostenibilidad a largo plazo."
+    },
+    {
+      "Q": "¿Cómo se vinculan estas directrices ESG con los objetivos de la European Green Deal y la legislación sobre sostenibilidad?",
+      "A": "Se alinean incorporando requisitos para alcanzar la neutralidad de carbono, mejorar la resiliencia ante riesgos ambientales y promover prácticas sostenibles en consonancia con compromisos internacionales y normativas europeas."
+    },
+    {
+      "Q": "¿Qué requisitos específicos se establecen para la gestión de riesgos ambientales frente a riesgos sociales y de gobernanza?",
+      "A": "Se exigen metodologías diferenciadas: para el componente ambiental se cuantifican riesgos físicos y de transición, mientras que los riesgos sociales y de gobernanza se abordan inicialmente de forma cualitativa, con evolución progresiva hacia indicadores cuantitativos."
+    },
+    {
+      "Q": "¿Cómo se debe estructurar un plan de transición según estas directrices ESG?",
+      "A": "El plan debe incluir objetivos específicos, plazos, hitos intermedios, medidas de mitigación y una estrategia clara para abordar los riesgos derivados de la transición hacia una economía sostenible, integrándose en la planificación estratégica global."
+    },
+    {
+      "Q": "¿Qué papel tiene la resiliencia a largo plazo (mínimo 10 años) en el enfoque de estas directrices ESG?",
+      "A": "Es fundamental, ya que las directrices requieren que las instituciones consideren un horizonte mínimo de 10 años en sus evaluaciones, garantizando la preparación ante cambios estructurales y riesgos emergentes."
+    },
+    {
+      "Q": "¿Qué consideraciones se deben tener en cuenta para el uso de proxies y estimaciones en la medición de riesgos ESG?",
+      "A": "Deben documentarse los supuestos, validarse las metodologías empleadas y ajustarse los resultados conforme mejore la calidad y disponibilidad de datos, minimizando la incertidumbre derivada del uso de proxies."
+    },
+    {
+      "Q": "¿Cómo contribuyen estas directrices a la convergencia de prácticas en el ámbito de ESG a nivel europeo?",
+      "A": "Al establecer estándares mínimos y metodologías de referencia, facilitan una aplicación uniforme en todas las jurisdicciones, promoviendo la comparabilidad y la cooperación entre autoridades de supervisión a nivel europeo."
+    },
+    {
+      "Q": "¿Qué diferencias existen en la aplicación de estas directrices entre instituciones grandes y SNCIs?",
+      "A": "Las instituciones grandes deben cumplir requisitos más detallados y actualizaciones más frecuentes, mientras que a las SNCIs se les permite aplicar procedimientos simplificados y enfoques menos complejos, siempre en función de su materialidad y exposición."
+    },
+    {
+      "Q": "¿Qué medidas de reporte y comunicación se exigen para el cumplimiento de las directrices ESG?",
+      "A": "Las instituciones deben notificar a las autoridades competentes sobre su nivel de cumplimiento, presentar informes transparentes y mantener actualizadas tanto las evaluaciones como los planes de transición, garantizando una comunicación periódica y clara."
+    },
+    {
+      "Q": "¿De qué forma se reflejan los resultados de la evaluación de materialidad ESG en el ICAAP de la institución?",
+      "A": "Los resultados se integran en la determinación de los requerimientos de capital, permitiendo que el ICAAP refleje la exposición a riesgos ESG y oriente la asignación de recursos y medidas de mitigación de forma adecuada."
+    },
+    {
+      "Q": "¿Qué interrelación existe entre los riesgos ESG y los riesgos tradicionales según estas directrices?",
+      "A": "Se consideran impulsos de riesgos tradicionales, ya que los factores ESG pueden afectar categorías como crédito, mercado, operacional y reputacional, por lo que se integran en un marco global de gestión de riesgos."
+    },
+    {
+      "Q": "¿Cómo se evalúa el impacto de la degradación de la biodiversidad en el análisis de riesgos ESG?",
+      "A": "Se utiliza la medición de la dependencia de activos y operaciones en los servicios ecosistémicos, analizando tanto impactos directos como efectos en cadena que pueden repercutir en la estabilidad financiera."
+    },
+    {
+      "Q": "¿Qué metodologías se recomiendan para cuantificar los riesgos físicos relacionados con eventos climáticos extremos?",
+      "A": "Se recomiendan enfoques basados en datos geográficos, análisis de vulnerabilidad y escenarios climáticos, que permitan estimar probabilidades y magnitudes de impacto en función de la exposición de activos críticos."
+    },
+    {
+      "Q": "¿De qué manera se aborda la incertidumbre en las proyecciones de escenarios a largo plazo en el análisis ESG?",
+      "A": "Mediante el uso de análisis de sensibilidad y la creación de múltiples escenarios basados en supuestos científicos, permitiendo ajustar estrategias ante diversas evoluciones del entorno."
+    },
+    {
+      "Q": "¿Qué criterios deben utilizarse para validar la calidad de los datos externos en el análisis ESG?",
+      "A": "Se deben evaluar la fuente, consistencia, actualidad y relevancia de la información, comparándola con datos internos y del mercado para asegurar una base robusta en la evaluación de riesgos."
+    },
+    {
+      "Q": "¿Cuál es el rol de la supervisión prudencial en la aplicación de estas directrices ESG?",
+      "A": "La supervisión prudencial vela por la correcta implementación de los requisitos, evaluando la adecuada integración y gestión de los riesgos ESG en las instituciones para promover la estabilidad del sistema financiero."
     }
   ]

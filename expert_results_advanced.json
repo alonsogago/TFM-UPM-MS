@@ -2,62 +2,62 @@
     {
         "question": "¿Cuáles son los principales componentes metodológicos para identificar y medir los riesgos ESG?",
         "expected_answer": "Se emplean metodologías combinadas basadas en exposición, análisis sectorial, evaluación de cartera y estudios de escenarios, permitiendo valorar tanto riesgos de transición como físicos.",
-        "generated_answer": "Los principales componentes metodológicos para identificar y medir riesgos ESG son:\n\n1. Análisis de materialidad\n\n2. Métricas e indicadores clave\n\n3. Evaluación de escenarios\n\n4. Análisis de exposiciones\n\n5. Cuantificación de impactos"
+        "generated_answer": "Los principales componentes metodológicos para identificar y medir riesgos ESG incluyen:\n\n1. Análisis de materialidad\n\n2. Evaluación de impactos\n\n3. Métricas e indicadores clave\n\n4. Escenarios y pruebas de estrés\n\n5. Integración en modelos de riesgo"
     },
     {
         "question": "¿Cómo debe realizarse la evaluación de materialidad en el contexto ESG?",
         "expected_answer": "La evaluación debe ser específica a cada institución, integrando análisis cualitativos y cuantitativos, y mapeando los factores ESG con sus canales de transmisión a los riesgos tradicionales.",
-        "generated_answer": "Según las directrices, la evaluación de materialidad de riesgos ESG debe:\n\n- Realizarse como una evaluación específica de cada institución\n- Proporcionar una visión de la materialidad financiera de los riesgos ESG para su modelo de negocio y perfil de riesgo\n- Ser consistente con otras evaluaciones de materialidad de la institución\n- Integrarse en el proceso"
+        "generated_answer": "Según las directrices, la evaluación de materialidad de riesgos ESG debe:\n\n- Ser específica para cada institución\n- Proporcionar una visión de la materialidad financiera de los riesgos ESG para su modelo de negocio y perfil de riesgo\n- Estar respaldada por un mapeo de factores ESG y canales de transmisión a categorías de riesgo financ"
     },
     {
         "question": "¿Qué criterios se utilizan para determinar la materialidad de un riesgo ESG?",
         "expected_answer": "Se consideran la probabilidad de ocurrencia, la magnitud del impacto financiero, la exposición y la relevancia para la estrategia de la institución.",
-        "generated_answer": "Según las directrices, los principales criterios para determinar la materialidad de un riesgo ESG son:\n\n- La naturaleza, tamaño y complejidad de las actividades, carteras, servicios y productos de la institución.\n\n- El impacto potencial en términos financieros y de reputación.\n\n- La evaluación debe ser específica para cada institución y consistente con otras evaluaciones de materialidad."
+        "generated_answer": "Según el contexto proporcionado, algunos criterios clave para determinar la materialidad de un riesgo ESG son:\n\n- Debe ser una evaluación específica de la institución, considerando su modelo de negocio y perfil de riesgo.\n\n- Debe mapear factores ESG y canales de transmisión a categorías tradicionales de riesgo financiero. \n\n- Debe ser consistente con otras evalu"
     },
     {
         "question": "¿Cómo se integran los riesgos ESG en los procesos de ICAAP e ILAAP?",
         "expected_answer": "Las instituciones deben incorporar evaluaciones de riesgos ESG en sus procesos de adecuación de capital y liquidez, ajustando horizontes temporales y metodologías para reflejar estos riesgos.",
-        "generated_answer": "Según las directrices, los riesgos ESG materiales y sus impactos en los tipos de riesgos financieros tradicionales deben integrarse en los procesos de ICAAP e ILAAP de la siguiente manera:\n\n- Los bancos deben utilizar los conocimientos obtenidos de los métodos de evaluación de riesgos ESG para apoyar la integración de los riesgos"
+        "generated_answer": "Según las directrices, los riesgos ESG materiales y sus impactos en los tipos de riesgos financieros tradicionales deben integrarse en los procesos de ICAAP e ILAAP de la siguiente manera:\n\n- Utilizando los conocimientos obtenidos de los métodos de evaluación de riesgos ESG para apoyar la integración de los riesgos ESG materiales"
     },
     {
         "question": "¿Qué papel juegan los análisis de escenarios en la gestión de riesgos ESG?",
         "expected_answer": "Permiten evaluar la resiliencia de la institución frente a distintos escenarios adversos, integrando variables ambientales y sociales para ajustar estrategias y requerimientos de capital.",
-        "generated_answer": "Los análisis de escenarios juegan un papel muy importante en la gestión de riesgos ESG (ambientales, sociales y de gobernanza) por varias razones:\n\n1. Permiten evaluar diferentes futuros posibles: Los escenarios ayudan a explorar cómo podrían evolucionar los riesgos ESG bajo distintas condiciones futuras, considerando múltiples variables."
+        "generated_answer": "Los análisis de escenarios juegan un papel importante en la gestión de riesgos ESG por varias razones:\n\n1. Permiten evaluar diferentes futuros posibles: Los escenarios ayudan a explorar cómo podrían evolucionar los riesgos ESG bajo distintas condiciones futuras, considerando diferentes trayectorias climáticas, regulatorias, tecnológicas, etc."
     },
     {
         "question": "¿Cuáles son los desafíos en la obtención y calidad de datos para evaluar riesgos ESG?",
         "expected_answer": "Se destaca la escasez de datos históricos, la variabilidad en la calidad de la información y la necesidad de recurrir a proxies o estimaciones para completar lagunas informativas.",
-        "generated_answer": "Algunos de los principales desafíos en la obtención y calidad de datos para evaluar riesgos ESG son:\n\n1. Falta de datos consistentes y comparables entre empresas y sectores.\n\n2. Limitada disponibilidad de datos históricos sobre factores ESG.\n\n3. Dificultad para obtener datos granulares a nivel de activos o proyectos específicos.\n\n4. Incons"
+        "generated_answer": "Los principales desafíos en la obtención y calidad de datos para evaluar riesgos ESG son:\n\n1. Disponibilidad limitada de datos\n2. Falta de estandarización \n3. Inconsistencia en reportes\n4. Datos históricos insuficientes\n5. Complejidad para medir factores cualitativos"
     },
     {
         "question": "¿Qué implicaciones tiene la integración de riesgos ESG en el apetito de riesgo de una institución?",
         "expected_answer": "Debe reflejarse en la definición de límites, umbrales y KRIs específicos, adaptando el apetito de riesgo a la materialidad y complejidad de los factores ESG.",
-        "generated_answer": "Según las directrices, la integración de riesgos ESG en el apetito de riesgo de una institución implica:\n\n- Incluir métricas y límites relacionados con riesgos ESG en el marco de apetito de riesgo\n- Considerar los riesgos ESG al definir la estrategia de negocio y los objetivos \n- Alinear el ap"
+        "generated_answer": "Según las directrices, la integración de riesgos ESG en el apetito de riesgo de una institución implica:\n\n- Incluir consideraciones ESG en la estrategia de riesgo\n- Definir métricas e indicadores ESG \n- Establecer límites y umbrales para riesgos ESG\n- Alinear el apetito de riesgo ESG con"
     },
     {
         "question": "¿Cómo se aplican las metodologías de alineación de cartera en el análisis ESG?",
         "expected_answer": "Estas metodologías miden el grado de alineación de las carteras con trayectorias de transición y escenarios de sostenibilidad, identificando concentraciones de riesgo y desviaciones significativas.",
-        "generated_answer": "Las metodologías de alineación de cartera se aplican en el análisis ESG para:\n\nEvaluar exposiciones y riesgos."
+        "generated_answer": "Las metodologías de alineación de cartera en el análisis ESG se aplican típicamente de las siguientes maneras:\n\n1. Evaluando la alineación de las inversiones o préstamos con objetivos climáticos o de sostenibilidad específicos.\n\n2. Midiendo la exposición de la cartera a sectores o actividades intensivas en carbono.\n\n3. Calculando la huella de carbono o"
     },
     {
         "question": "¿Qué importancia tienen las evaluaciones de vulnerabilidad a riesgos físicos?",
         "expected_answer": "Son esenciales para determinar la exposición geográfica y la sensibilidad de activos críticos frente a eventos físicos, lo que informa sobre la resiliencia y necesidad de medidas de mitigación.",
-        "generated_answer": "Según el contexto proporcionado, las evaluaciones de vulnerabilidad a riesgos físicos tienen una importancia significativa. Específicamente:\n\nLas instituciones deben realizar evaluaciones de vulnerabilidad a riesgos físicos para comprender mejor su exposición y resiliencia ante estos riesgos en el corto, mediano y largo plazo. Esto les permite identificar, medir, gestionar y monitorear a"
+        "generated_answer": "Las evaluaciones de vulnerabilidad a riesgos físicos son muy importantes, ya que permiten:\n\n- Identificar y evaluar los potenciales impactos de riesgos físicos (como eventos climáticos extremos) en las operaciones, activos e infraestructura de una institución.\n\n- Determinar el grado de exposición y sensibilidad a estos riesgos.\n\n- Analizar la capac"
     },
     {
         "question": "¿De qué forma se integran los riesgos de transición en los modelos de scoring crediticio?",
         "expected_answer": "Se incorporan variables relacionadas con emisiones, eficiencia energética y políticas de transición, ajustando la evaluación crediticia a la exposición ESG de la contraparte.",
-        "generated_answer": "Basado en el contexto proporcionado, algunas formas de integrar los riesgos de transición en los modelos de scoring crediticio son:\n\n1. Incorporar factores ESG, especialmente ambientales, en la evaluación general del riesgo de incumplimiento de un prestatario.\n\n2. Cuando sea justificado por su materialidad, incluir factores ESG en los modelos de scoring o"
+        "generated_answer": "Basado en el contexto proporcionado, algunas formas de integrar los riesgos de transición en los modelos de scoring crediticio son:\n\n1. Incorporar factores ESG\n2. Usar análisis prospectivos\n3. Ajustar modelos de PD\n4. Desarrollar métricas cuantitativas\n5. Combinar enfoques cualitativos y cuantitativos"
     },
     {
         "question": "¿Qué medidas de mitigación se recomiendan para gestionar riesgos ESG en carteras crediticias?",
         "expected_answer": "Entre ellas se encuentran ajustes en condiciones financieras, diversificación, establecimiento de límites sectoriales y el engagement para mejorar las prácticas ESG de las contrapartes.",
-        "generated_answer": "Las principales medidas recomendadas son:\n\nAnálisis de planes de transición"
+        "generated_answer": "Las principales medidas de mitigación recomendadas son:\n\nAnálisis de planes de transición de empresas en sectores de alto riesgo"
     },
     {
         "question": "¿Cómo deben documentarse las metodologías y supuestos en la evaluación ESG?",
         "expected_answer": "Es imprescindible justificar la elección de escenarios, criterios de selección y cualquier cambio metodológico, garantizando transparencia y consistencia en los procesos internos.",
-        "generated_answer": "Según las directrices, las instituciones deben documentar adecuadamente las metodologías y supuestos utilizados en la evaluación de riesgos ESG. Algunos aspectos clave que deben documentarse incluyen:\n\n- Las metodologías y métricas utilizadas para identificar y medir los riesgos ESG.\n\n- Los supuestos y datos empleados en los análisis y evaluaciones de rie"
+        "generated_answer": "Según las directrices, las instituciones deben documentar adecuadamente las metodologías y supuestos utilizados en la evaluación de riesgos ESG. Algunos aspectos clave a considerar en la documentación incluyen:\n\n- Describir detalladamente las metodologías y enfoques utilizados para identificar y medir los riesgos ESG.\n\n- Explicar los supuestos clave y"
     },
     {
         "question": "¿Qué rol desempeñan los KRIs en la monitorización de riesgos ESG?",
@@ -67,27 +67,27 @@
     {
         "question": "¿Cómo se deben integrar los riesgos ESG en la estructura de gobernanza interna?",
         "expected_answer": "Se deben asignar responsabilidades claras, fomentar la capacitación en temas ESG y establecer controles y reportes que integren estos riesgos en el sistema de gobierno corporativo.",
-        "generated_answer": "Según las directrices, los riesgos ESG deben integrarse en la estructura de gobernanza interna de las siguientes formas principales:\n\n1. Incorporándolos en el marco de control interno existente.\n\n2. Asignando responsabilidades y líneas de reporte claras para los riesgos ESG.\n\n3. Integrándolos en las tres líneas de defensa.\n\n4"
+        "generated_answer": "Según las directrices, los riesgos ESG deben integrarse:\n\n- En las tres líneas de defensa del marco de control interno\n\n- En la cultura de riesgo de la institución\n\n- Con una clara comunicación desde la alta dirección\n\n- Con responsabilidades y líneas de reporte claramente definidas\n\n- En los marcos y procesos de gestión de riesgos existentes"
     },
     {
         "question": "¿Qué papel tienen los datos externos y de terceros en la evaluación de riesgos ESG?",
         "expected_answer": "Son fundamentales para complementar la información interna, utilizando reportes de sostenibilidad, estándares internacionales y datos comparativos para enriquecer el análisis.",
-        "generated_answer": "Los datos externos y de terceros juegan un papel importante en la evaluación de riesgos ESG. En resumen:\n\n- Complementan datos internos\n- Proporcionan perspectivas adicionales\n- Ayudan a validar análisis propios\n- Amplían la cobertura de información"
+        "generated_answer": "Los datos externos y de terceros juegan un papel importante en la evaluación de riesgos ESG, siendo utilizados para:\n\n- Complementar datos internos\n- Obtener información adicional \n- Validar evaluaciones propias\n- Comparar con benchmarks del sector"
     },
     {
         "question": "¿Cómo se aborda la incertidumbre inherente a la medición de riesgos ESG?",
         "expected_answer": "Mediante análisis de sensibilidad, escenarios alternativos y ajustes en la planificación de capital, para mitigar la incertidumbre derivada de la falta de datos históricos completos.",
-        "generated_answer": "Según las directrices, algunas formas en que se aborda la incertidumbre inherente a la medición de riesgos ESG son:\n\n- Utilizando múltiples escenarios y horizontes temporales en los análisis\n- Combinando datos cuantitativos y cualitativos \n- Aplicando el juicio experto cuando hay brechas de datos\n- Usando enfoques de car"
+        "generated_answer": "Según las directrices, para abordar la incertidumbre inherente en la medición de riesgos ESG, las instituciones deben:\n\n- Utilizar múltiples escenarios y horizontes temporales en sus análisis\n- Emplear juicio experto y datos cualitativos cuando haya brechas de datos cuantitativos\n- Adoptar un enfoque progresivo, mejoran"
     },
     {
         "question": "¿Qué implicaciones regulatorias tienen estas directrices ESG para las instituciones financieras?",
         "expected_answer": "Implican la incorporación de riesgos ESG en la gestión interna, la presentación de informes y el ajuste en la estructura de capital y gobernanza, en línea con las exigencias regulatorias.",
-        "generated_answer": "Basándome en el contenido del documento, algunas de las principales implicaciones regulatorias de estas directrices ESG para las instituciones financieras son:\n\n1. Requerimiento de integrar los riesgos ESG en sus estrategias, procesos de gestión de riesgos y gobernanza. Esto implica adaptar sus políticas, procedimientos y sistemas para incorporar estos nuevos factores de r"
+        "generated_answer": "Basándome en el contexto proporcionado, algunas de las principales implicaciones regulatorias de estas directrices ESG para las instituciones financieras son:\n\n1. Requerimiento de evaluar y gestionar los riesgos ESG (ambientales, sociales y de gobernanza) como parte de sus procesos de gestión de riesgos.\n\n2. Necesidad de incorporar factores ESG"
     },
     {
         "question": "¿Cómo se relaciona el análisis ESG con los objetivos de sostenibilidad a largo plazo?",
         "expected_answer": "Permite a las instituciones alinear sus estrategias de riesgo con metas de sostenibilidad, anticipando cambios regulatorios y de mercado que aseguren la resiliencia a largo plazo.",
-        "generated_answer": "El análisis ESG se relaciona estrechamente con los objetivos de sostenibilidad a largo plazo de las siguientes formas principales:\n\n1. Proporciona un marco para evaluar riesgos y oportunidades de sostenibilidad. El análisis de factores ambientales, sociales y de gobernanza permite identificar áreas clave donde una organización puede mejorar su desempeño en sostenibilida"
+        "generated_answer": "El análisis ESG se relaciona estrechamente con los objetivos de sostenibilidad a largo plazo de las siguientes formas principales:\n\n1. Proporciona una evaluación integral: El análisis ESG examina factores ambientales, sociales y de gobernanza, lo que permite una evaluación holística de la sostenibilidad de una empresa o inversión a largo plazo.\n\n2. Identifica riesgos"
     },
     {
         "question": "¿Qué papel desempeñan los planes de transición en la mitigación de riesgos ESG?",
@@ -97,6 +97,106 @@
     {
         "question": "¿Cómo puede la integración de riesgos ESG mejorar la competitividad de una institución?",
         "expected_answer": "Al gestionar proactivamente estos riesgos, las instituciones optimizan su estructura de riesgo, refuerzan su imagen corporativa y se preparan mejor para futuras exigencias regulatorias, mejorando su posición en el mercado.",
-        "generated_answer": "La integración de riesgos ESG puede mejorar la competitividad mediante:\n\n- Mejor gestión de riesgos\n- Innovación en productos/servicios\n- Atracción de inversores/clientes\n- Eficiencia operativa\n- Reputación mejorada"
+        "generated_answer": "La integración de riesgos ESG puede mejorar la competitividad al:\n\n- Reducir riesgos operativos y financieros\n- Atraer inversores y clientes responsables\n- Impulsar innovación y eficiencia\n- Mejorar reputación y marca"
+    },
+    {
+        "question": "¿Cuál es la fecha de aplicación de las directrices para instituciones grandes y para SNCIs?",
+        "expected_answer": "Las directrices entran en vigor el 11 de enero de 2026 para instituciones grandes y, a más tardar, el 11 de enero de 2027 para pequeñas y no complejas (SNCIs).",
+        "generated_answer": "Based on the context provided, no specific application date is mentioned for large institutions or SNCIs (small and non-complex institutions). The text discusses differentiated provisions for different types of institutions, but does not specify implementation dates."
+    },
+    {
+        "question": "¿De qué forma se aborda el principio de proporcionalidad en la gestión de riesgos ESG según estas directrices?",
+        "expected_answer": "Se aplica considerando la materialidad de los riesgos en función de la actividad y complejidad de la institución, permitiendo ajustar la frecuencia y el alcance de evaluaciones y metodologías según el tamaño y exposición.",
+        "generated_answer": "Según estas directrices, el principio de proporcionalidad en la gestión de riesgos ESG se aborda principalmente de dos formas:\n\n1. En base a la materialidad de los riesgos ESG asociados a las actividades y modelo de negocio de cada institución.\n\n2. Considerando el tamaño, complejidad y perfil de riesgo general de la institución."
+    },
+    {
+        "question": "¿Qué cambios legislativos han impulsado la emisión de estas directrices ESG?",
+        "expected_answer": "Las directrices responden a modificaciones introducidas en el CRD y el CRR, así como a iniciativas como la European Green Deal, el Acuerdo de París y otros marcos regulatorios orientados hacia una economía sostenible.",
+        "generated_answer": "Los principales cambios legislativos que impulsaron estas directrices ESG fueron:\n\n- El Acuerdo de París sobre cambio climático\n- El Plan de Acción de Finanzas Sostenibles de la UE\n- El Pacto Verde Europeo"
+    },
+    {
+        "question": "¿Cómo se integra el análisis de riesgos ESG en la evaluación de riesgos operacionales y reputacionales?",
+        "expected_answer": "Se incorporan identificando los factores ESG que pueden impactar las operaciones y la imagen institucional, integrándolos en modelos de riesgo que evalúan tanto efectos directos como indirectos sobre la operatividad y reputación.",
+        "generated_answer": "Basándome en el contexto proporcionado, algunos puntos clave sobre cómo se integra el análisis de riesgos ESG en la evaluación de riesgos operacionales y reputacionales son:\n\n1. Se recomienda incluir una medida del riesgo reputacional relacionado con ESG que rastree cómo la regulación, comunicación, compromisos o controversias públicas sobre activ"
+    },
+    {
+        "question": "¿Qué papel juegan las directrices ESG en la estrategia de transición de las instituciones financieras?",
+        "expected_answer": "Establecen un marco para desarrollar planes de transición con objetivos, hitos y medidas de mitigación, alineando la estrategia corporativa con los objetivos de sostenibilidad a largo plazo.",
+        "generated_answer": "Las directrices ESG guían la estrategia de transición, integrándose en:\n\n- Objetivos y metas\n- Gestión de riesgos\n- Toma de decisiones"
+    },
+    {
+        "question": "¿Cómo se vinculan estas directrices ESG con los objetivos de la European Green Deal y la legislación sobre sostenibilidad?",
+        "expected_answer": "Se alinean incorporando requisitos para alcanzar la neutralidad de carbono, mejorar la resiliencia ante riesgos ambientales y promover prácticas sostenibles en consonancia con compromisos internacionales y normativas europeas.",
+        "generated_answer": "Estas directrices ESG apoyan los objetivos del European Green Deal y la legislación de sostenibilidad de la UE al:\n\n- Alinearse con el objetivo de hacer de Europa el primer continente climáticamente neutro para 2050\n- Fomentar que el sector financiero desempeñe un papel clave en la transición hacia una economía sostenible\n- Complementar otras iniciativas de la Com"
+    },
+    {
+        "question": "¿Qué requisitos específicos se establecen para la gestión de riesgos ambientales frente a riesgos sociales y de gobernanza?",
+        "expected_answer": "Se exigen metodologías diferenciadas: para el componente ambiental se cuantifican riesgos físicos y de transición, mientras que los riesgos sociales y de gobernanza se abordan inicialmente de forma cualitativa, con evolución progresiva hacia indicadores cuantitativos.",
+        "generated_answer": "Según las directrices, se establecen requisitos más detallados y específicos para la gestión de riesgos ambientales en comparación con los riesgos sociales y de gobernanza:\n\n1. Se requiere una evaluación de materialidad más exhaustiva para los riesgos ambientales, incluyendo el uso de datos cualitativos y cuantitativos.\n\n2. Se pide considerar una"
+    },
+    {
+        "question": "¿Cómo se debe estructurar un plan de transición según estas directrices ESG?",
+        "expected_answer": "El plan debe incluir objetivos específicos, plazos, hitos intermedios, medidas de mitigación y una estrategia clara para abordar los riesgos derivados de la transición hacia una economía sostenible, integrándose en la planificación estratégica global.",
+        "generated_answer": "Según estas directrices, un plan de transición debe estructurarse con los siguientes elementos clave:\n\n1. Gobernanza: Definir roles y responsabilidades claras para la formulación, validación, implementación, monitoreo y actualización del plan.\n\n2. Objetivos y metas: Establecer objetivos y metas concretas alineadas con la estrategia de la institución.\n\n3."
+    },
+    {
+        "question": "¿Qué papel tiene la resiliencia a largo plazo (mínimo 10 años) en el enfoque de estas directrices ESG?",
+        "expected_answer": "Es fundamental, ya que las directrices requieren que las instituciones consideren un horizonte mínimo de 10 años en sus evaluaciones, garantizando la preparación ante cambios estructurales y riesgos emergentes.",
+        "generated_answer": "La resiliencia a largo plazo es fundamental en estas directrices ESG, con un horizonte mínimo de 10 años."
+    },
+    {
+        "question": "¿Qué consideraciones se deben tener en cuenta para el uso de proxies y estimaciones en la medición de riesgos ESG?",
+        "expected_answer": "Deben documentarse los supuestos, validarse las metodologías empleadas y ajustarse los resultados conforme mejore la calidad y disponibilidad de datos, minimizando la incertidumbre derivada del uso de proxies.",
+        "generated_answer": "Según el contexto proporcionado, las principales consideraciones para el uso de proxies y estimaciones en la medición de riesgos ESG son:\n\n1. Usarlos como último recurso\n2. Justificar su elección\n3. Documentar limitaciones\n4. Reducir gradualmente su uso\n5. Evaluar fuentes alternativas"
+    },
+    {
+        "question": "¿Cómo contribuyen estas directrices a la convergencia de prácticas en el ámbito de ESG a nivel europeo?",
+        "expected_answer": "Al establecer estándares mínimos y metodologías de referencia, facilitan una aplicación uniforme en todas las jurisdicciones, promoviendo la comparabilidad y la cooperación entre autoridades de supervisión a nivel europeo.",
+        "generated_answer": "Estas directrices contribuyen a la convergencia de prácticas ESG a nivel europeo al:\n\nEstablecer estándares comunes para la gestión de riesgos ESG en instituciones financieras de la UE."
+    },
+    {
+        "question": "¿Qué diferencias existen en la aplicación de estas directrices entre instituciones grandes y SNCIs?",
+        "expected_answer": "Las instituciones grandes deben cumplir requisitos más detallados y actualizaciones más frecuentes, mientras que a las SNCIs se les permite aplicar procedimientos simplificados y enfoques menos complejos, siempre en función de su materialidad y exposición.",
+        "generated_answer": "Principales diferencias:\n\n- Frecuencia de actualizaciones\n- Uso de estimaciones cualitativas\n- Número de metodologías\n- Métricas de monitoreo"
+    },
+    {
+        "question": "¿Qué medidas de reporte y comunicación se exigen para el cumplimiento de las directrices ESG?",
+        "expected_answer": "Las instituciones deben notificar a las autoridades competentes sobre su nivel de cumplimiento, presentar informes transparentes y mantener actualizadas tanto las evaluaciones como los planes de transición, garantizando una comunicación periódica y clara.",
+        "generated_answer": "Según las directrices, algunas de las principales medidas de reporte y comunicación exigidas para el cumplimiento ESG incluyen:\n\n- Informes sobre los objetivos estratégicos y hoja de ruta para abordar los riesgos ESG a corto, medio y largo plazo.\n\n- Comunicación de las políticas y prácticas de remuneración alineadas con los objetivos ESG."
+    },
+    {
+        "question": "¿De qué forma se reflejan los resultados de la evaluación de materialidad ESG en el ICAAP de la institución?",
+        "expected_answer": "Los resultados se integran en la determinación de los requerimientos de capital, permitiendo que el ICAAP refleje la exposición a riesgos ESG y oriente la asignación de recursos y medidas de mitigación de forma adecuada.",
+        "generated_answer": "Según las directrices, los resultados de la evaluación de materialidad de riesgos ESG deben integrarse en el proceso de evaluación de la adecuación del capital interno (ICAAP) de la institución. Específicamente:\n\n- La evaluación de materialidad de riesgos ESG debe ser consistente con otras evaluaciones de materialidad realizadas por la institución, particularmente las realizadas para el"
+    },
+    {
+        "question": "¿Qué interrelación existe entre los riesgos ESG y los riesgos tradicionales según estas directrices?",
+        "expected_answer": "Se consideran impulsos de riesgos tradicionales, ya que los factores ESG pueden afectar categorías como crédito, mercado, operacional y reputacional, por lo que se integran en un marco global de gestión de riesgos.",
+        "generated_answer": "Según las directrices, existe una interrelación entre los riesgos ESG y los riesgos tradicionales. Específicamente:\n\n- Los riesgos ESG pueden impactar y transmitirse a través de los riesgos financieros tradicionales como el riesgo de crédito, de mercado, operacional y de liquidez.\n\n- Se menciona la interacción de los riesgos ES"
+    },
+    {
+        "question": "¿Cómo se evalúa el impacto de la degradación de la biodiversidad en el análisis de riesgos ESG?",
+        "expected_answer": "Se utiliza la medición de la dependencia de activos y operaciones en los servicios ecosistémicos, analizando tanto impactos directos como efectos en cadena que pueden repercutir en la estabilidad financiera.",
+        "generated_answer": "Basado en las directrices presentadas, algunos aspectos clave para evaluar el impacto de la degradación de la biodiversidad en el análisis de riesgos ESG incluyen:\n\n1. Considerar métricas relacionadas con factores no climáticos, como las dependencias e impactos a nivel de cartera sobre los servicios ecosistémicos, o las exposiciones a áreas sensibles en términos de"
+    },
+    {
+        "question": "¿Qué metodologías se recomiendan para cuantificar los riesgos físicos relacionados con eventos climáticos extremos?",
+        "expected_answer": "Se recomiendan enfoques basados en datos geográficos, análisis de vulnerabilidad y escenarios climáticos, que permitan estimar probabilidades y magnitudes de impacto en función de la exposición de activos críticos.",
+        "generated_answer": "Según el contexto proporcionado, algunas metodologías recomendadas para cuantificar los riesgos físicos relacionados con eventos climáticos extremos son:\n\n1. Utilizar mapas de calor (heatmaps) para evaluar la exposición a diferentes riesgos físicos.\n\n2. Considerar escenarios científicos actualizados de organizaciones nacionales, de la UE o internac"
+    },
+    {
+        "question": "¿De qué manera se aborda la incertidumbre en las proyecciones de escenarios a largo plazo en el análisis ESG?",
+        "expected_answer": "Mediante el uso de análisis de sensibilidad y la creación de múltiples escenarios basados en supuestos científicos, permitiendo ajustar estrategias ante diversas evoluciones del entorno.",
+        "generated_answer": "Las proyecciones de escenarios a largo plazo en el análisis ESG típicamente abordan la incertidumbre mediante:\n\n- Uso de múltiples escenarios\n- Análisis de sensibilidad \n- Rangos de estimaciones\n- Revisión y actualización periódica\n- Transparencia sobre supuestos"
+    },
+    {
+        "question": "¿Qué criterios deben utilizarse para validar la calidad de los datos externos en el análisis ESG?",
+        "expected_answer": "Se deben evaluar la fuente, consistencia, actualidad y relevancia de la información, comparándola con datos internos y del mercado para asegurar una base robusta en la evaluación de riesgos.",
+        "generated_answer": "Basándome en el contexto proporcionado, algunos criterios clave para validar la calidad de los datos ESG externos podrían ser:\n\n1. Fiabilidad de las fuentes - Evaluar si los datos provienen de fuentes confiables y reconocidas.\n\n2. Exhaustividad - Verificar que los conjuntos de datos cubran todos los aspectos ESG relevantes.\n\n3. Granular"
+    },
+    {
+        "question": "¿Cuál es el rol de la supervisión prudencial en la aplicación de estas directrices ESG?",
+        "expected_answer": "La supervisión prudencial vela por la correcta implementación de los requisitos, evaluando la adecuada integración y gestión de los riesgos ESG en las instituciones para promover la estabilidad del sistema financiero.",
+        "generated_answer": "Según las directrices, el rol de la supervisión prudencial en la aplicación de estas directrices ESG es:\n\nIntegrar en el SREP\n\nLas directrices indican que eventualmente serán integradas en el Proceso de Revisión y Evaluación Supervisora (SREP). Específicamente, se menciona que:\n\n- Las Directrices SREP de la EBA estarán dirigidas a"
     }
 ]

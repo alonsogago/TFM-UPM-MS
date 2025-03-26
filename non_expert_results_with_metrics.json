@@ -2,42 +2,42 @@
     {
         "question": "¿Qué son los riesgos ESG?",
         "expected_answer": "Son aquellos riesgos relacionados con factores ambientales, sociales y de gobernanza que pueden afectar la estabilidad y funcionamiento de las instituciones financieras, incluyendo riesgos derivados de la transición hacia economías sostenibles y riesgos físicos (como eventos climáticos extremos).",
-        "generated_answer": "Los riesgos ESG se refieren a:\n\n- Riesgos ambientales (Environmental)\n- Riesgos sociales (Social) \n- Riesgos de gobernanza (Governance)",
-        "token_error_rate": 0.9210526315789473,
-        "bleu_score": 0.013593007098176466,
-        "rouge_l": 0.17391303908317593
+        "generated_answer": "Los riesgos ESG son:\n\nRiesgos ambientales, sociales y de gobernanza.",
+        "token_error_rate": 0.8421052631578947,
+        "bleu_score": 0.01689071874072545,
+        "rouge_l": 0.29268292314098754
     },
     {
         "question": "¿Cuál es el objetivo principal de estas directrices ESG?",
         "expected_answer": "Establecer estándares mínimos y metodologías de referencia para identificar, medir, gestionar y monitorizar los riesgos ESG en las instituciones.",
-        "generated_answer": "El objetivo principal es gestionar los riesgos ESG.",
+        "generated_answer": "El objetivo principal de estas directrices ESG es:\n\nGestionar riesgos ESG.",
         "token_error_rate": 0.7894736842105263,
-        "bleu_score": 0.01993030475657082,
-        "rouge_l": 0.3076923034319527
+        "bleu_score": 0.013735632032686504,
+        "rouge_l": 0.21428570969387764
     },
     {
         "question": "¿Por qué es importante que las instituciones gestionen los riesgos ESG?",
         "expected_answer": "Porque estos riesgos pueden impactar la solidez financiera, la reputación y la viabilidad a largo plazo de las instituciones, afectando incluso los riesgos tradicionales.",
-        "generated_answer": "Las instituciones deben gestionar los riesgos ESG por:\n\n- Impacto financiero\n- Cumplimiento regulatorio \n- Reputación\n- Sostenibilidad a largo plazo",
-        "token_error_rate": 0.9166666666666666,
-        "bleu_score": 0.06509410971529117,
-        "rouge_l": 0.20512820015779104
+        "generated_answer": "Las principales razones son:\n\n- Mitigar riesgos financieros\n- Cumplir regulaciones\n- Proteger reputación\n- Aprovechar oportunidades",
+        "token_error_rate": 1.0,
+        "bleu_score": 0.011767122423565878,
+        "rouge_l": 0.11428570948571448
     },
     {
         "question": "¿Qué se entiende por riesgo ambiental en este contexto?",
         "expected_answer": "Incluye tanto los riesgos derivados de la transición hacia una economía baja en carbono como aquellos relacionados con eventos físicos, como fenómenos meteorológicos extremos o la degradación del medio ambiente.",
-        "generated_answer": "En este contexto, el riesgo ambiental se refiere principalmente a los riesgos relacionados con el cambio climático y otros factores ambientales que pueden afectar a las instituciones financieras y sus contrapartes. Esto incluye:\n\n- Riesgos físicos derivados de eventos climáticos extremos o cambios graduales en el clima.\n\n- Riesgos de transición asociados al",
-        "token_error_rate": 1.5333333333333334,
-        "bleu_score": 0.0265040377466141,
-        "rouge_l": 0.27027026556610667
+        "generated_answer": "Basado en el contexto proporcionado, el riesgo ambiental se entiende principalmente como:\n\nLos riesgos relacionados con factores ambientales, especialmente el cambio climático y otros desafíos ecológicos.",
+        "token_error_rate": 0.9333333333333333,
+        "bleu_score": 0.02377999882596585,
+        "rouge_l": 0.1153846104142014
     },
     {
         "question": "¿Qué significa “riesgo de transición”?",
         "expected_answer": "Es el riesgo asociado a los cambios que surgen al pasar hacia una economía más sostenible, como nuevas políticas ambientales, innovaciones tecnológicas y cambios en las preferencias del mercado.",
-        "generated_answer": "El \"riesgo de transición\" generalmente se refiere a los riesgos financieros y económicos asociados con la transición hacia una economía baja en carbono y más sostenible. Específicamente:\n\n- Son los riesgos que surgen para las empresas y sectores económicos a medida que se implementan políticas, regulaciones y cambios tecnológicos para mitigar el cambio climático y av",
-        "token_error_rate": 1.5517241379310345,
-        "bleu_score": 0.04150727383849837,
-        "rouge_l": 0.2739725980108839
+        "generated_answer": "El \"riesgo de transición\" se refiere a los riesgos financieros y operativos que pueden surgir para las empresas y organizaciones durante la transición hacia una economía baja en carbono y más sostenible. Específicamente:\n\n- Son los riesgos asociados al proceso de ajuste hacia una economía con menores emisiones de carbono.\n\n- Pueden incluir cambios en políticas, regul",
+        "token_error_rate": 1.5862068965517242,
+        "bleu_score": 0.03782533547139603,
+        "rouge_l": 0.24657533773691132
     },
     {
         "question": "¿Qué son los riesgos físicos en el ámbito ESG?",
@@ -50,18 +50,18 @@
     {
         "question": "¿Qué papel tiene el EBA en la gestión de riesgos ESG?",
         "expected_answer": "El EBA emite directrices y estándares para ayudar a las instituciones a integrar y gestionar de forma eficaz los riesgos ESG dentro de sus marcos de gestión y supervisión.",
-        "generated_answer": "Basándome en el contexto proporcionado, el papel del EBA (Autoridad Bancaria Europea) en la gestión de riesgos ESG (ambientales, sociales y de gobernanza) incluye:\n\n1. Proporcionar directrices y orientaciones a las instituciones financieras sobre cómo incorporar y gestionar los riesgos ESG en sus procesos y estrategias.",
+        "generated_answer": "Según el contexto proporcionado, el EBA (Autoridad Bancaria Europea) tiene un papel importante en la gestión de riesgos ESG (ambientales, sociales y de gobernanza) para las instituciones financieras:\n\n1. Proporciona directrices y orientación sobre cómo las instituciones deben integrar y gestionar los riesgos ESG en sus marcos de gestión de r",
         "token_error_rate": 1.3448275862068966,
-        "bleu_score": 0.06582086880549826,
-        "rouge_l": 0.3934426181779092
+        "bleu_score": 0.10334028405476747,
+        "rouge_l": 0.4444444397278912
     },
     {
         "question": "¿Cómo deben integrar las instituciones los riesgos ESG en su gestión?",
         "expected_answer": "Deben incorporarlos en sus procesos internos, evaluaciones de materialidad y planes de transición, integrándolos en la gestión de riesgos tradicional.",
-        "generated_answer": "De acuerdo al texto, las instituciones deben:\n\nDesarrollar continuamente sus capacidades para identificar, evaluar, monitorear, gestionar y mitigar los riesgos ESG.",
-        "token_error_rate": 1.0,
-        "bleu_score": 0.016475111107446542,
-        "rouge_l": 0.1578947318975071
+        "generated_answer": "Las instituciones deben:\n\n- Desarrollar capacidades continuamente\n- Formar adecuadamente a directivos y personal\n- Actualizar políticas y procedimientos\n- Integrar en cultura y controles internos",
+        "token_error_rate": 1.05,
+        "bleu_score": 0.012459334764811482,
+        "rouge_l": 0.10526315295013873
     },
     {
         "question": "¿Qué es una evaluación de materialidad en riesgos ESG?",
@@ -74,63 +74,63 @@
     {
         "question": "¿Qué debe incluir un plan de transición ESG?",
         "expected_answer": "Debe contener objetivos, plazos, hitos y medidas concretas para gestionar y mitigar los riesgos derivados de la transición hacia la sostenibilidad.",
-        "generated_answer": "Según las directrices, un plan de transición ESG debe incluir:\n\n- Objetivos y metas\n- Gobernanza y responsabilidades \n- Acciones de capacitación y recursos\n- Estrategia de implementación\n- Métricas y seguimiento",
-        "token_error_rate": 1.1904761904761905,
-        "bleu_score": 0.012461816986038625,
-        "rouge_l": 0.09523809028344697
+        "generated_answer": "Un plan de transición ESG debe incluir:\n\n- Objetivos y metas\n- Estrategia de implementación\n- Gobernanza\n- Recursos y capacidades\n- Métricas de seguimiento",
+        "token_error_rate": 1.0,
+        "bleu_score": 0.015308943726302393,
+        "rouge_l": 0.10810810311176064
     },
     {
         "question": "¿Qué horizonte temporal se considera para los riesgos ESG?",
         "expected_answer": "Las directrices contemplan horizontes a corto, mediano y largo plazo, incluyendo análisis a 10 años o más.",
-        "generated_answer": "Según el texto, para los riesgos ESG se deben considerar varios horizontes temporales, incluyendo:\n\n- Corto plazo\n- Medio plazo  \n- Largo plazo de al menos 10 años",
-        "token_error_rate": 1.2352941176470589,
+        "generated_answer": "Según el contexto proporcionado, para los riesgos ESG se consideran varios horizontes temporales, incluyendo:\n\n- Corto plazo\n- Mediano plazo  \n- Largo plazo de al menos 10 años",
+        "token_error_rate": 1.1764705882352942,
         "bleu_score": 0.02412847370802476,
         "rouge_l": 0.14999999520000015
     },
     {
         "question": "¿Qué herramientas se pueden utilizar para medir los riesgos ESG?",
         "expected_answer": "Se pueden aplicar metodologías basadas en exposición, sector, cartera y análisis de escenarios para evaluar estos riesgos.",
-        "generated_answer": "Según el texto, algunas herramientas que las instituciones pueden utilizar para medir y gestionar los riesgos ESG incluyen:\n\n- Diálogo y compromiso con las contrapartes para entender mejor su perfil de riesgo y asegurar consistencia con el apetito de riesgo de la institución.\n\n- Establecer límites de exposición y umbrales para sectores, geografías o",
-        "token_error_rate": 2.823529411764706,
-        "bleu_score": 0.00804134024477409,
-        "rouge_l": 0.1379310303388824
+        "generated_answer": "Según el texto, algunas herramientas que las instituciones pueden utilizar para medir y gestionar los riesgos ESG incluyen:\n\n1. Diálogo con las contrapartes para entender mejor su perfil de riesgo y asegurar consistencia con el apetito de riesgo de la institución.\n\n2. Establecer un diálogo con las contrapartes para revisar su resiliencia fr",
+        "token_error_rate": 2.8823529411764706,
+        "bleu_score": 0.008168728879954094,
+        "rouge_l": 0.17543859230532483
     },
     {
         "question": "¿Qué es un análisis de escenarios en este contexto?",
         "expected_answer": "Es una técnica para evaluar la resiliencia de una institución frente a diferentes situaciones futuras adversas, considerando variables ambientales y sociales.",
-        "generated_answer": "En este contexto, un análisis de escenarios es una herramienta para evaluar los posibles impactos de los riesgos ESG (ambientales, sociales y de gobernanza) en las instituciones financieras. Implica considerar diferentes situaciones hipotéticas futuras para entender cómo podrían afectar a la entidad.",
-        "token_error_rate": 1.619047619047619,
-        "bleu_score": 0.02685412578518139,
-        "rouge_l": 0.27586206444708683
+        "generated_answer": "En este contexto, un análisis de escenarios es una herramienta para evaluar los posibles impactos de los riesgos ESG (ambientales, sociales y de gobernanza) en las instituciones financieras bajo diferentes situaciones hipotéticas futuras.",
+        "token_error_rate": 1.3333333333333333,
+        "bleu_score": 0.030553082250225037,
+        "rouge_l": 0.2799999952000001
     },
     {
         "question": "¿Cómo se relacionan los riesgos ESG con la sostenibilidad?",
         "expected_answer": "Una gestión adecuada de los riesgos ESG ayuda a las instituciones a transitar hacia modelos de negocio más sostenibles y resilientes frente a cambios ambientales y sociales.",
-        "generated_answer": "Los riesgos ESG y la sostenibilidad están estrechamente relacionados:\n\n- Los riesgos ESG (ambientales, sociales y de gobernanza) son los riesgos que pueden afectar la sostenibilidad a largo plazo de una empresa o institución.\n\n- La gestión adecuada de los riesgos ESG es fundamental para lograr la sostenibilidad.\n\n- Los",
-        "token_error_rate": 1.5925925925925926,
-        "bleu_score": 0.10207315006472235,
-        "rouge_l": 0.24999999515943885
+        "generated_answer": "Los riesgos ESG y la sostenibilidad están estrechamente relacionados:\n\n- Los riesgos ESG (ambientales, sociales y de gobernanza) son factores que pueden impactar la sostenibilidad a largo plazo de una empresa o inversión.\n\n- Gestionar adecuadamente los riesgos ESG contribuye a mejorar la sostenibilidad.\n\n- La sostenibil",
+        "token_error_rate": 1.4444444444444444,
+        "bleu_score": 0.03567034017866321,
+        "rouge_l": 0.21428570944515316
     },
     {
         "question": "¿Qué impacto pueden tener los riesgos ESG en la solvencia de una institución?",
         "expected_answer": "Pueden afectar la capacidad de la institución para hacer frente a sus obligaciones financieras, lo que puede requerir ajustes en la estructura de capital.",
-        "generated_answer": "Los riesgos ESG (ambientales, sociales y de gobernanza) pueden tener varios impactos potenciales en la solvencia de una institución financiera:\n\n1. Riesgos crediticios: Exposición a sectores o empresas afectadas por la transición climática o riesgos ambientales.\n\n2. Riesgos de mercado: Cambios en valoraciones de",
-        "token_error_rate": 1.5833333333333333,
-        "bleu_score": 0.01980454582086796,
-        "rouge_l": 0.140350872539243
+        "generated_answer": "Los riesgos ESG (ambientales, sociales y de gobernanza) pueden tener varios impactos importantes en la solvencia de una institución financiera:\n\n1. Riesgos de crédito: Exposición a sectores o empresas afectadas por la transición climática o riesgos ambientales.\n\n2. Riesgos de mercado: Volatilidad en el valor de",
+        "token_error_rate": 1.6666666666666667,
+        "bleu_score": 0.019024641736784295,
+        "rouge_l": 0.13793102986325817
     },
     {
         "question": "¿Cómo se comunica la información sobre riesgos ESG?",
         "expected_answer": "A través de informes internos y externos que detallan la evaluación, gestión y monitorización de estos riesgos de forma transparente.",
-        "generated_answer": "Basado en las directrices, algunas formas clave para comunicar la información sobre riesgos ESG incluyen:\n\n1. Utilizar los sistemas de gestión de información internos de la institución para identificar, recopilar, estructurar y analizar los datos necesarios para evaluar, gestionar y monitorear los riesgos ESG.\n\n2. Implementar estos sistemas en toda la institución como",
-        "token_error_rate": 2.4,
-        "bleu_score": 0.010271632771670723,
-        "rouge_l": 0.21818181391074384
+        "generated_answer": "Basándome en el contexto proporcionado, algunas formas clave de comunicar la información sobre riesgos ESG incluyen:\n\n1. A través de los informes de sostenibilidad de las empresas, especialmente de acuerdo a los Estándares Europeos de Reportes de Sostenibilidad (ESRS) desarrollados bajo la Directiva 2013/34/UE.\n\n2",
+        "token_error_rate": 2.0,
+        "bleu_score": 0.03612603969317734,
+        "rouge_l": 0.22222221790809338
     },
     {
         "question": "¿Qué importancia tiene la gobernanza en la gestión de riesgos ESG?",
         "expected_answer": "Una buena gobernanza garantiza la asignación de responsabilidades, el establecimiento de políticas claras y el seguimiento continuo de la gestión de estos riesgos.",
-        "generated_answer": "La gobernanza es crucial para la gestión efectiva de riesgos ESG.",
+        "generated_answer": "La gobernanza es clave para la gestión efectiva de riesgos ESG.",
         "token_error_rate": 0.8695652173913043,
         "bleu_score": 0.020735547686539787,
         "rouge_l": 0.3448275814982165
@@ -138,25 +138,185 @@
     {
         "question": "¿Cuáles son los principales desafíos en la medición de riesgos ESG?",
         "expected_answer": "Destacan la falta de datos históricos robustos, la complejidad y naturaleza cambiante de los riesgos y la necesidad de desarrollar metodologías específicas.",
-        "generated_answer": "Los principales desafíos en la medición de riesgos ESG incluyen:\n\n- Datos limitados o inconsistentes\n- Métricas no estandarizadas \n- Complejidad de factores interrelacionados\n- Horizonte temporal largo\n- Incertidumbre sobre impactos futuros",
-        "token_error_rate": 1.0909090909090908,
-        "bleu_score": 0.01214595417412267,
-        "rouge_l": 0.13333332863209893
+        "generated_answer": "Los principales desafíos en la medición de riesgos ESG incluyen:\n\n- Falta de datos consistentes\n- Metodologías en desarrollo \n- Complejidad e interconexiones\n- Horizonte temporal largo\n- Incertidumbre regulatoria",
+        "token_error_rate": 1.0454545454545454,
+        "bleu_score": 0.02575079598954683,
+        "rouge_l": 0.1463414585603809
     },
     {
         "question": "¿Qué es el riesgo de reputación en relación con ESG?",
         "expected_answer": "Es el riesgo de que la percepción negativa sobre la gestión de los riesgos ESG afecte la imagen y la confianza de los stakeholders en la institución.",
-        "generated_answer": "El riesgo de reputación relacionado con ESG (factores ambientales, sociales y de gobernanza) se refiere a:\n\n- El potencial impacto negativo en la reputación de una institución financiera debido a sus actividades, políticas o prácticas relacionadas con temas ESG.\n\n- Puede surgir de controversias públicas, regulaciones, compromisos o comunicaciones sobre las actividades actu",
-        "token_error_rate": 1.7037037037037037,
-        "bleu_score": 0.021196638762659856,
-        "rouge_l": 0.2499999957031251
+        "generated_answer": "El riesgo de reputación relacionado con ESG (factores ambientales, sociales y de gobernanza) se refiere a:\n\n- El potencial impacto negativo en la reputación de una institución financiera debido a sus actividades, políticas o asociaciones relacionadas con temas ESG.\n\n- Puede surgir de controversias públicas, regulaciones, comunicaciones o compromisos de la institución sobre sus",
+        "token_error_rate": 1.6666666666666667,
+        "bleu_score": 0.02139786101917304,
+        "rouge_l": 0.22950819231389416
     },
     {
         "question": "¿Por qué es fundamental la integración de datos en la evaluación de riesgos ESG?",
         "expected_answer": "Porque contar con datos precisos y consistentes es clave para evaluar de forma correcta los riesgos y tomar decisiones informadas que fortalezcan la resiliencia institucional.",
-        "generated_answer": "Para gestionar riesgos ESG eficazmente:\n\nAgregación y explotación de datos.",
-        "token_error_rate": 0.92,
-        "bleu_score": 0.006888429635370448,
-        "rouge_l": 0.11764705467128042
+        "generated_answer": "La integración de datos es fundamental para:\n\nEvaluar riesgos ESG exhaustivamente",
+        "token_error_rate": 0.8,
+        "bleu_score": 0.008554515800838434,
+        "rouge_l": 0.17142856711836746
+    },
+    {
+        "question": "¿Qué significa que una institución debe evaluar los riesgos ESG a corto, mediano y largo plazo?",
+        "expected_answer": "Significa que la institución debe analizar cómo estos riesgos afectan su situación en el presente, en el futuro cercano y a largo plazo (al menos 10 años), para prepararse ante cambios importantes.",
+        "generated_answer": "Evaluar los riesgos ESG a corto, mediano y largo plazo significa:\n\nConsiderar impactos en diferentes horizontes temporales:\n\n- Corto plazo: 1-3 años\n- Mediano plazo: 3-5 años  \n- Largo plazo: 5+ años",
+        "token_error_rate": 0.9375,
+        "bleu_score": 0.025419693820071008,
+        "rouge_l": 0.14285713788265325
+    },
+    {
+        "question": "¿Por qué se requiere actualizar la evaluación de materialidad de riesgos ESG periódicamente?",
+        "expected_answer": "Porque el entorno económico y regulatorio cambia constantemente, y actualizar la evaluación permite identificar nuevos riesgos y ajustar las estrategias a tiempo.",
+        "generated_answer": "La evaluación de materialidad de riesgos ESG requiere actualizarse periódicamente para:\n\nReflejar cambios en el entorno de negocios relacionados con factores ESG, como nuevas políticas públicas significativas o cambios en el modelo de negocio, carteras u operaciones de la institución.",
+        "token_error_rate": 1.7272727272727273,
+        "bleu_score": 0.01984516682862038,
+        "rouge_l": 0.1132075424706303
+    },
+    {
+        "question": "¿De qué manera ayuda el análisis de escenarios a la toma de decisiones en riesgos ESG?",
+        "expected_answer": "El análisis de escenarios permite imaginar distintos futuros y evaluar cómo podrían afectar a la institución, ayudando a planificar y tomar decisiones más acertadas.",
+        "generated_answer": "El análisis de escenarios ayuda a:\n\nEvaluar impactos futuros potenciales\nIdentificar riesgos y oportunidades\nInformar la planificación estratégica",
+        "token_error_rate": 0.75,
+        "bleu_score": 0.1108062680870718,
+        "rouge_l": 0.34999999505000007
+    },
+    {
+        "question": "¿Cómo pueden los riesgos ESG influir en la reputación de una institución?",
+        "expected_answer": "Una gestión inadecuada de estos riesgos puede generar críticas y pérdida de confianza entre clientes e inversores, afectando negativamente la imagen de la institución.",
+        "generated_answer": "Los riesgos ESG pueden influir en la reputación de una institución de varias formas:\n\n- Controversias públicas sobre actividades actuales o futuras\n- Pérdida de oportunidades de negocio o alianzas estratégicas \n- Impacto en la percepción de reguladores y otros stakeholders\n- Interacciones con riesgos operacionales y estratégicos",
+        "token_error_rate": 1.625,
+        "bleu_score": 0.010210780608934343,
+        "rouge_l": 0.140350872539243
+    },
+    {
+        "question": "¿Qué se entiende por 'riesgo social' en el contexto ESG?",
+        "expected_answer": "Se refiere a los riesgos relacionados con problemas sociales, como condiciones laborales deficientes o impactos negativos en comunidades, que pueden repercutir en la estabilidad de la institución.",
+        "generated_answer": "En el contexto ESG (Environmental, Social and Governance), el riesgo social se refiere a los riesgos relacionados con factores sociales que pueden afectar a una empresa o institución. Algunos elementos clave del riesgo social incluyen:\n\n1. Prácticas laborales: Condiciones de trabajo, salarios justos, seguridad laboral, diversidad e inclusión.\n\n2. Derechos",
+        "token_error_rate": 1.4814814814814814,
+        "bleu_score": 0.10940949172694506,
+        "rouge_l": 0.2816901362824837
+    },
+    {
+        "question": "¿Cómo ayudan las directrices ESG a mejorar la gestión de riesgos en las instituciones financieras?",
+        "expected_answer": "Ofrecen un marco claro con estándares y métodos que facilitan identificar, medir y gestionar los riesgos de manera estructurada y coherente.",
+        "generated_answer": "Las directrices ESG ayudan a mejorar la gestión de riesgos en instituciones financieras de varias formas clave:\n\n1. Integran factores ESG en estrategias\n2. Mejoran evaluación de riesgos\n3. Amplían alcance de due diligence\n4. Promueven productos sostenibles\n5. Fortalecen gobierno corporativo",
+        "token_error_rate": 1.7619047619047619,
+        "bleu_score": 0.008349226610096646,
+        "rouge_l": 0.07272726820495896
+    },
+    {
+        "question": "¿Qué es un 'KRI' y por qué es importante en el seguimiento de riesgos ESG?",
+        "expected_answer": "Un Indicador Clave de Riesgo (KRI) es una medida que alerta sobre posibles problemas, permitiendo actuar rápidamente para prevenir impactos negativos.",
+        "generated_answer": "Un KRI (Key Risk Indicator) es un indicador clave de riesgo. Es importante para monitorear los riesgos ESG porque:\n\n- Ayuda a medir y dar seguimiento a riesgos específicos\n- Permite establecer umbrales de alerta temprana\n- Facilita la toma de decisiones basada en datos\n- Apoya la gestión proactiva de riesgos ES",
+        "token_error_rate": 2.0476190476190474,
+        "bleu_score": 0.008637379176500492,
+        "rouge_l": 0.12499999559082046
+    },
+    {
+        "question": "¿De qué forma se relacionan los riesgos ESG con la sostenibilidad empresarial?",
+        "expected_answer": "Gestionar adecuadamente los riesgos ESG ayuda a que la institución sea más resiliente y esté mejor preparada para operar de forma sostenible a largo plazo.",
+        "generated_answer": "Los riesgos ESG (ambientales, sociales y de gobernanza) se relacionan estrechamente con la sostenibilidad empresarial de las siguientes formas principales:\n\n1. Son factores clave para la viabilidad a largo plazo de las empresas. Gestionar adecuadamente los riesgos ESG contribuye a la sostenibilidad del negocio en el tiempo.\n\n2. Imp",
+        "token_error_rate": 1.76,
+        "bleu_score": 0.09172809483526449,
+        "rouge_l": 0.3749999953125
+    },
+    {
+        "question": "¿Qué significa que los riesgos ESG puedan afectar los riesgos tradicionales, como el crédito o el mercado?",
+        "expected_answer": "Significa que factores ambientales, sociales y de gobernanza pueden influir en la capacidad de la institución para gestionar riesgos conocidos, afectando sus operaciones y resultados.",
+        "generated_answer": "Según el contexto proporcionado, que los riesgos ESG puedan afectar los riesgos tradicionales como el crédito o el mercado significa que:\n\nLas instituciones deben considerar cómo los riesgos ESG podrían:\n\n1. Impactar el valor de los instrumentos financieros en su cartera\n\n2. Evaluar el riesgo potencial de pérdidas",
+        "token_error_rate": 1.8,
+        "bleu_score": 0.00938700255397146,
+        "rouge_l": 0.13559321566216623
+    },
+    {
+        "question": "¿Por qué es importante que las instituciones recopilen datos específicos sobre sus exposiciones a riesgos ESG?",
+        "expected_answer": "Recopilar datos permite conocer con mayor precisión las áreas de exposición, facilitando la toma de decisiones para mitigar dichos riesgos.",
+        "generated_answer": "La recopilación de datos específicos sobre exposiciones a riesgos ESG es importante para las instituciones por las siguientes razones principales:\n\n1. Permite medir y monitorear los riesgos ESG de forma precisa.\n\n2. Facilita el establecimiento de objetivos y métricas cuantitativas.\n\n3. Ayuda a identificar áreas de mejora y oportunidades.\n\n4.",
+        "token_error_rate": 2.3,
+        "bleu_score": 0.01697675647056411,
+        "rouge_l": 0.0999999956722224
+    },
+    {
+        "question": "¿Qué papel tienen los datos de sostenibilidad de terceros en la evaluación de riesgos ESG?",
+        "expected_answer": "Estos datos complementan la información interna, ofreciendo una visión más amplia y permitiendo comparar la situación de la institución con la de otras.",
+        "generated_answer": "Los datos de sostenibilidad de terceros juegan un papel importante en la evaluación de riesgos ESG, ya que:\n\n- Proporcionan información adicional\n- Complementan los datos internos\n- Ayudan a validar evaluaciones propias\n- Amplían la cobertura de datos\n\nEn resumen, los datos de terceros son una fuente valiosa para mejorar y enriquecer la evalu",
+        "token_error_rate": 1.9565217391304348,
+        "bleu_score": 0.00969774599067769,
+        "rouge_l": 0.1333333290055557
+    },
+    {
+        "question": "¿Cómo se relaciona el plan de transición con la gestión de riesgos ESG?",
+        "expected_answer": "El plan de transición establece pasos y objetivos para adaptarse a cambios ambientales y sociales, ayudando a reducir los riesgos asociados a la transformación hacia una economía sostenible.",
+        "generated_answer": "El plan de transición se relaciona estrechamente con la gestión de riesgos ESG de las siguientes formas principales:\n\n1. Integra los riesgos ESG\n2. Establece objetivos y metas\n3. Define acciones concretas\n4. Alinea estrategia y apetito\n5. Asigna responsabilidades claras",
+        "token_error_rate": 1.1071428571428572,
+        "bleu_score": 0.07574421758634935,
+        "rouge_l": 0.2950819623757055
+    },
+    {
+        "question": "¿Qué significa que las directrices consideren un horizonte a 10 años para la evaluación de riesgos?",
+        "expected_answer": "Indica que las instituciones deben planificar a largo plazo, considerando cómo evolucionarán los riesgos y preparándose para cambios significativos en el futuro.",
+        "generated_answer": "Horizonte de evaluación de 10 años.",
+        "token_error_rate": 1.0,
+        "bleu_score": 0,
+        "rouge_l": 0.0
+    },
+    {
+        "question": "¿Cómo puede afectar el cambio climático a las operaciones de una institución financiera?",
+        "expected_answer": "El cambio climático puede provocar eventos extremos o modificaciones en las políticas, lo que podría interrumpir operaciones y afectar la estabilidad financiera.",
+        "generated_answer": "El cambio climático puede afectar a una institución financiera de varias formas principales:\n\n1. Riesgos físicos: Daños a infraestructura y activos por eventos climáticos extremos.\n\n2. Riesgos de transición: Cambios regulatorios y de mercado hacia una economía baja en carbono.\n\n3. Riesgos reputacionales: Presión",
+        "token_error_rate": 1.7272727272727273,
+        "bleu_score": 0.061954340677826944,
+        "rouge_l": 0.30508474108589495
+    },
+    {
+        "question": "¿Por qué es necesario integrar tanto datos cuantitativos como cualitativos en la evaluación de riesgos ESG?",
+        "expected_answer": "Porque combinar ambos tipos de datos ofrece una visión completa, permitiendo identificar los riesgos de forma precisa y comprender mejor sus posibles impactos.",
+        "generated_answer": "Es necesario integrar datos cuantitativos y cualitativos en la evaluación de riesgos ESG para:\n\n1. Obtener una visión completa\n2. Capturar aspectos intangibles\n3. Complementar limitaciones de datos\n4. Mejorar el análisis holístico\n5. Reflejar la complejidad ESG",
+        "token_error_rate": 1.3043478260869565,
+        "bleu_score": 0.02689008579964746,
+        "rouge_l": 0.17857142380102056
+    },
+    {
+        "question": "¿Qué implica el término 'materialidad' en la gestión de riesgos ESG?",
+        "expected_answer": "Se refiere a identificar cuáles riesgos son realmente importantes para la institución, ayudando a priorizar acciones y asignar recursos según su impacto potencial.",
+        "generated_answer": "La materialidad en la gestión de riesgos ESG implica determinar qué factores ambientales, sociales y de gobernanza son financieramente relevantes para una institución.",
+        "token_error_rate": 1.0,
+        "bleu_score": 0.01735200065903686,
+        "rouge_l": 0.13636363136363655
+    },
+    {
+        "question": "¿Qué beneficios trae a una institución la actualización periódica de su evaluación ESG?",
+        "expected_answer": "Actualizar la evaluación permite adaptarse a nuevos riesgos y oportunidades, mejorando la capacidad de respuesta y fortaleciendo la resiliencia institucional.",
+        "generated_answer": "Los principales beneficios de actualizar periódicamente la evaluación ESG son:\n\n- Mejor gestión de riesgos\n- Identificación de nuevas oportunidades\n- Adaptación a cambios regulatorios\n- Mejora continua del desempeño",
+        "token_error_rate": 1.15,
+        "bleu_score": 0.02575079598954683,
+        "rouge_l": 0.19047618565759653
+    },
+    {
+        "question": "¿Cómo influyen las políticas públicas en la gestión de riesgos ESG?",
+        "expected_answer": "Las políticas públicas pueden modificar el entorno regulatorio y de mercado, por lo que las instituciones deben ajustar sus estrategias para cumplir con nuevas normativas y aprovechar incentivos.",
+        "generated_answer": "Las políticas públicas pueden influir de manera importante en la gestión de riesgos ESG (ambientales, sociales y de gobernanza) por parte de las empresas e instituciones de varias formas:\n\n1. Estableciendo regulaciones y estándares: Los gobiernos pueden crear leyes y normativas que obliguen a las empresas a gestionar y reportar sobre sus riesgos ESG.\n\n2.",
+        "token_error_rate": 1.5714285714285714,
+        "bleu_score": 0.059703448812578594,
+        "rouge_l": 0.2898550677000631
+    },
+    {
+        "question": "¿Qué papel juega la tecnología en la recopilación y análisis de datos para riesgos ESG?",
+        "expected_answer": "La tecnología facilita la recolección, análisis y seguimiento de grandes volúmenes de datos, mejorando la precisión y eficiencia en la evaluación y gestión de riesgos ESG.",
+        "generated_answer": "Basado en el contexto proporcionado, la tecnología juega un papel importante en la recopilación y análisis de datos para riesgos ESG de las siguientes maneras:\n\n1. Sistemas de gestión de información: Se menciona que las instituciones deben implementar \"sistemas sólidos de gestión de información para identificar, recopilar, estructurar y analizar los datos necesarios para evaluar, gest",
+        "token_error_rate": 1.8461538461538463,
+        "bleu_score": 0.021671658082363543,
+        "rouge_l": 0.22222221788863702
+    },
+    {
+        "question": "¿Cómo pueden los clientes y stakeholders influir en la gestión de riesgos ESG de una institución?",
+        "expected_answer": "Las expectativas y la presión de clientes y otros interesados pueden impulsar a la institución a mejorar sus prácticas de sostenibilidad y transparencia en la gestión de riesgos.",
+        "generated_answer": "Según el contexto proporcionado, los clientes y stakeholders pueden influir en la gestión de riesgos ESG de una institución principalmente a través del compromiso y el diálogo. Específicamente:\n\n- Mediante la participación y el diálogo con las contrapartes para entender mejor su perfil de riesgo y asegurar la consistencia con el apetito de riesgo y objetivos estratégicos de",
+        "token_error_rate": 1.75,
+        "bleu_score": 0.05859113621957261,
+        "rouge_l": 0.25396824952380953
     }
 ]

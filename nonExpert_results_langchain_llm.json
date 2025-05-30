@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What are ESG risks?",
+    "expected_answer": "Risks related to environmental, social, and governance factors that can affect the stability and functioning of financial institutions, including transition risks towards sustainable economies and physical risks (such as extreme climate events).",
+    "generated_answer": "ESG risks are environmental, social and governance risks that can impact the safety and soundness of financial institutions in the short, medium and long term as a result of the effects of environmental, social and governance factors.",
+    "token_error_rate": 0.8125,
+    "bleu_score": 0.03558808868258459,
+    "rouge_l": 0.32727272228760335,
+    "llm_score": 4
+  },
+  {
+    "question": "What is the main objective of these ESG guidelines?",
+    "expected_answer": "To establish minimum standards and reference methodologies for identifying, measuring, managing, and monitoring ESG risks in institutions.",
+    "generated_answer": "The main objective of these ESG guidelines is to enhance the identification, measurement, management and monitoring of ESG risks by institutions, with the aim of supporting their safety and soundness as they face the short-, medium- and long-term impacts of ESG factors.",
+    "token_error_rate": 2.176470588235294,
+    "bleu_score": 0.022581538107531374,
+    "rouge_l": 0.16326530172428166,
+    "llm_score": 4
+  },
+  {
+    "question": "Why is it important for institutions to manage ESG risks?",
+    "expected_answer": "Because these risks can impact financial soundness, reputation, and long-term viability of institutions, even affecting traditional risks.",
+    "generated_answer": "Managing ESG risks is important for institutions to ensure their safety and soundness as the EU transitions towards a more sustainable economy and the materialization of ESG risks intensifies. Proper management of these risks contributes to the institution's ability to operate in a safe and prudent manner.",
+    "token_error_rate": 2.5294117647058822,
+    "bleu_score": 0.016222432230252586,
+    "rouge_l": 0.15384614958579892,
+    "llm_score": 4
+  },
+  {
+    "question": "What is meant by environmental risk in this context?",
+    "expected_answer": "It includes risks from the transition to a low-carbon economy as well as those related to physical events, like extreme weather or environmental degradation.",
+    "generated_answer": "Environmental risk in this context encompasses both physical and transition risk drivers, including climate-related factors, degradation of ecosystems, and biodiversity loss. It also covers risks stemming from the degradation of nature, impacts on biodiversity, loss of ecosystem services, and misalignment with activities aimed at protecting or restoring nature.",
+    "token_error_rate": 1.7916666666666667,
+    "bleu_score": 0.018306803170363133,
+    "rouge_l": 0.19047618593096505,
+    "llm_score": 5
+  },
+  {
+    "question": "What does 'transition risk' mean?",
+    "expected_answer": "The risk associated with changes arising from moving to a more sustainable economy, such as new environmental policies, technological innovations, and shifts in market preferences.",
+    "generated_answer": "Transition risk refers to the risks associated with the shift to a low-carbon economy, including changes in policies, technologies, and market preferences that can impact the viability and profitability of businesses as they adapt to climate-related challenges.",
+    "token_error_rate": 1.32,
+    "bleu_score": 0.031520371161788525,
+    "rouge_l": 0.350877188057864,
+    "llm_score": 5
+  },
+  {
+    "question": "What are physical risks in the ESG domain?",
+    "expected_answer": "Risks arising from natural events or physical impacts (such as floods, droughts, or storms) that can damage assets and disrupt operations.",
+    "generated_answer": "Physical risks in the ESG domain refer to risks associated with environmental hazards and extreme weather events, such as floods, water stress, wildfires, and other climate-related phenomena that can impact an institution's exposures, assets, or collateral.",
+    "token_error_rate": 1.4761904761904763,
+    "bleu_score": 0.02717076173570544,
+    "rouge_l": 0.14814814348422511,
+    "llm_score": 5
+  },
+  {
+    "question": "What role does the EBA play in ESG risk management?",
+    "expected_answer": "The EBA issues guidelines and standards to help institutions effectively integrate and manage ESG risks within their supervisory and management frameworks.",
+    "generated_answer": "The EBA plays a key role in developing guidelines and standards for ESG risk management in financial institutions. Specifically, the EBA has been mandated to issue guidelines on management practices for the full scope of environmental, social and governance risks. The EBA's guidelines aim to integrate ESG risk management into existing governance systems and risk management practices of financial institutions, rather than proposing separate ESG-specific structures.",
+    "token_error_rate": 2.7142857142857144,
+    "bleu_score": 0.029900509584130187,
+    "rouge_l": 0.30769230355502963,
+    "llm_score": 5
+  },
+  {
+    "question": "How should institutions integrate ESG risks into their management?",
+    "expected_answer": "They should incorporate them into internal processes, materiality assessments, and transition plans, embedding them in traditional risk management.",
+    "generated_answer": "Institutions should integrate ESG risks into their regular risk management framework by considering them as potential drivers of all traditional financial risk categories, including credit, market, operational, reputational, liquidity, business model, and concentration risks. They should embed ESG risks within their existing risk management systems and processes, ensuring consistency with overall business and risk strategies.",
+    "token_error_rate": 2.7777777777777777,
+    "bleu_score": 0.016737238650345133,
+    "rouge_l": 0.2666666626055556,
+    "llm_score": 5
+  },
+  {
+    "question": "What is a materiality assessment in ESG risks?",
+    "expected_answer": "An analysis that identifies which ESG risks are most relevant to an institution, considering their potential impact on financial stability.",
+    "generated_answer": "A materiality assessment for ESG risks is an institution-specific evaluation that provides a view on the financial materiality of ESG risks for an institution's business model and risk profile. It involves mapping ESG factors and transmission channels to traditional financial risk categories, using a risk-based approach that considers the likelihood of occurrence and potential magnitude of financial effects of ESG risks.",
+    "token_error_rate": 2.75,
+    "bleu_score": 0.0152419945094267,
+    "rouge_l": 0.22580644724245583,
+    "llm_score": 5
+  },
+  {
+    "question": "What must an ESG transition plan include?",
+    "expected_answer": "It should contain objectives, timelines, milestones, and concrete measures to manage and mitigate risks from the transition to sustainability.",
+    "generated_answer": "According to the guidelines, an ESG transition plan should include:\n\n1. Processes, principles, core expectations and main features for managing ESG risks\n2. Metrics for assessing progress\n3. Involvement of relevant units/departments like strategic planning, risk management, sustainability disclosures, legal services and compliance\n4. Assessment of capacity, expertise and resources needed to develop and implement the plan\n5. Data management processes to collect, validate and aggregate necessary data\n6.",
+    "token_error_rate": 3.1052631578947367,
+    "bleu_score": 0.007777269493094556,
+    "rouge_l": 0.1599999964942223,
+    "llm_score": 4
+  },
+  {
+    "question": "What time horizon is considered for ESG risks?",
+    "expected_answer": "Guidelines contemplate short, medium, and long-term horizons, including analyses up to 10 years or more.",
+    "generated_answer": "The guidelines indicate that institutions should consider time horizons of at least 10 years for ESG risks. However, some commenters suggested this may be too short and encouraged considering longer time horizons for assessing the implications of ESG risks.",
+    "token_error_rate": 2.4,
+    "bleu_score": 0.017870489946657547,
+    "rouge_l": 0.12499999570312517,
+    "llm_score": 3
+  },
+  {
+    "question": "What tools can be used to measure ESG risks?",
+    "expected_answer": "Methodologies based on exposure, sectoral analysis, portfolio evaluation, and scenario analysis can be applied.",
+    "generated_answer": "According to the guidelines, institutions can use a combination of tools to measure ESG risks, including publicly available ESG data, additional data collected from clients and counterparties, third-party data, proxies, and portfolio-level assessments. The guidelines recommend that institutions gather and use the information needed to assess current and forward-looking ESG risks, building on available data sources as well as collecting additional data where needed.",
+    "token_error_rate": 4.5,
+    "bleu_score": 0.006485296533129827,
+    "rouge_l": 0.06666666308888908,
+    "llm_score": 3
+  },
+  {
+    "question": "What is scenario analysis in this context?",
+    "expected_answer": "A technique to evaluate an institution’s resilience against different future adverse situations, considering environmental and social variables.",
+    "generated_answer": "Scenario analysis in this context refers to a method used by financial institutions to test their resilience to ESG risks, particularly climate-related risks, under various hypothetical future scenarios. It involves examining how different potential environmental, social, and governance scenarios could impact the institution's operations, risk profile, and financial stability over different time horizons.",
+    "token_error_rate": 2.823529411764706,
+    "bleu_score": 0.008637379176500492,
+    "rouge_l": 0.15873015478961966,
+    "llm_score": 5
+  },
+  {
+    "question": "How do ESG risks relate to sustainability?",
+    "expected_answer": "Effective management of ESG risks helps institutions transition to more sustainable and resilient business models against environmental and social changes.",
+    "generated_answer": "ESG risks are directly linked to sustainability, as they encompass the environmental, social, and governance factors that can impact an institution's long-term viability and its transition to a more sustainable economy. These risks arise from the process of adjusting to sustainability objectives and can affect an institution's business strategy, operations, and overall risk profile.",
+    "token_error_rate": 2.5,
+    "bleu_score": 0.023680625910179096,
+    "rouge_l": 0.25396824975560595,
+    "llm_score": 4
+  },
+  {
+    "question": "What impact can ESG risks have on an institution’s solvency?",
+    "expected_answer": "They can affect the institution’s ability to meet financial obligations, potentially requiring adjustments to capital structure.",
+    "generated_answer": "ESG risks can potentially impact an institution's solvency by acting as drivers of traditional financial risks such as credit risk, market risk, operational risk, reputational risk, liquidity risk, business model risk, and concentration risk.",
+    "token_error_rate": 2.0625,
+    "bleu_score": 0.011024952272666753,
+    "rouge_l": 0.09523809064625872,
+    "llm_score": 4
+  },
+  {
+    "question": "How is information about ESG risks communicated?",
+    "expected_answer": "Through internal and external reports detailing risk assessment, management, and monitoring transparently.",
+    "generated_answer": "According to the guidelines, institutions should use measures and metrics to communicate ESG risk information, including concentration risk related to physical and transition risk drivers, historical losses related to ESG risks, forward-looking estimates of exposures and potential losses, and measures of ESG-related reputational risk that consider impacts on the institution's activities and interactions with other risk types.",
+    "token_error_rate": 4.583333333333333,
+    "bleu_score": 0.007150475455780605,
+    "rouge_l": 0.07692307358727825,
+    "llm_score": 4
+  },
+  {
+    "question": "How important is governance in ESG risk management?",
+    "expected_answer": "Good governance ensures clear responsibilities, defined policies, and continuous oversight of ESG risk management.",
+    "generated_answer": "Governance plays a crucial role in ESG risk management. The management body is responsible for approving ESG risk management plans, overseeing their implementation, being regularly informed of developments, and making decisions on remedial actions if there are significant deviations. Institutions need to clearly identify and allocate responsibilities for developing, validating, implementing and monitoring ESG risk management plans at appropriate levels of seniority.",
+    "token_error_rate": 4.142857142857143,
+    "bleu_score": 0.023563020220942314,
+    "rouge_l": 0.12307691969704150,
+    "llm_score": 5
+  },
+  {
+    "question": "What are the main challenges in measuring ESG risks?",
+    "expected_answer": "Key challenges include a lack of robust historical data, the complexity and evolving nature of risks, and the need for specialized methodologies.",
+    "generated_answer": "The main challenges in measuring ESG risks include:\n\n1. Developing appropriate methodologies and metrics to quantify ESG risks accurately.\n\n2. Obtaining reliable and consistent ESG data across different companies and sectors.\n\n3. Assessing the long-term and often uncertain impacts of ESG factors.\n\n4. Integrating ESG risk measurements into existing risk management frameworks.\n\n5. Accounting for the interconnected nature of environmental, social and governance risks.\n\n6",
+    "token_error_rate": 2.6363636363636362,
+    "bleu_score": 0.014821532297573551,
+    "rouge_l": 0.16901408058718514,
+    "llm_score": 5
+  },
+  {
+    "question": "What is reputational risk in relation to ESG?",
+    "expected_answer": "The risk that negative perceptions about ESG risk management harm stakeholders’ trust and the institution’s image.",
+    "generated_answer": "Reputational risk related to ESG tracks how regulation, communication, commitments or public controversies regarding current and future business-related activities directly or indirectly impact the institution, considering interactions with operational risk and strategic and business model risks, such as loss of business opportunities or strategic partnerships.",
+    "token_error_rate": 2.625,
+    "bleu_score": 0.009909062091551357,
+    "rouge_l": 0.15094339216803143,
+    "llm_score": 5
+  },
+  {
+    "question": "Why is data integration fundamental in ESG risk assessment?",
+    "expected_answer": "Accurate and consistent data are key to properly evaluating risks and making informed decisions that strengthen institutional resilience.",
+    "generated_answer": "Data integration is fundamental in ESG risk assessment because it enables institutions to collect and combine relevant ESG data points across systems and processes. This allows for a more comprehensive and accurate assessment of ESG risks. Integrating ESG data into core systems and processes helps ensure that ESG factors are considered consistently throughout risk management activities and decision-making.",
+    "token_error_rate": 2.9444444444444446,
+    "bleu_score": 0.008379767883179795,
+    "rouge_l": 0.12903225408428734,
+    "llm_score": 5
+  },
+  {
+    "question": "What does it mean to assess ESG risks over short, medium, and long terms?",
+    "expected_answer": "It means analyzing how these risks affect the institution now, in the near future, and over the long term (at least 10 years), to prepare for significant changes.",
+    "generated_answer": "Assessing ESG risks over short, medium, and long terms means institutions should evaluate the potential impacts of environmental, social, and governance factors over different time horizons - typically the short-term (up to 1-3 years), medium-term (3-10 years), and long-term (beyond 10 years). This allows for a comprehensive view of how ESG risks may evolve and affect the institution over various timeframes.",
+    "token_error_rate": 1.8928571428571428,
+    "bleu_score": 0.03150094474130569,
+    "rouge_l": 0.21052631128808874,
+    "llm_score": 5
+  },
+  {
+    "question": "Why must materiality assessments of ESG risks be updated periodically?",
+    "expected_answer": "Because the economic and regulatory environment constantly changes, and updating assessments helps identify new risks and adjust strategies in time.",
+    "generated_answer": "Materiality assessments of ESG risks must be updated periodically to take into account new information such as developments in portfolios and counterparties' activities, new available scenarios, benchmarks or sectoral pathways, and impacts of current or upcoming regulation. Regular updates ensure the assessments remain current and relevant as ESG risks and the broader environment evolve over time.",
+    "token_error_rate": 2.5,
+    "bleu_score": 0.01741162598902243,
+    "rouge_l": 0.19354838297606666,
+    "llm_score": 5
+  },
+  {
+    "question": "How does scenario analysis aid decision-making in ESG risks?",
+    "expected_answer": "It enables envisioning different futures and evaluating their potential impacts on the institution, supporting more informed planning and decisions.",
+    "generated_answer": "Scenario analysis helps institutions assess their sensitivities to ESG risks across different time horizons, including long-term ones. It supports medium-term planning, definition of risk limits and risk appetite, and steers institutions towards their strategic objectives regarding ESG risks.",
+    "token_error_rate": 1.894736842105263,
+    "bleu_score": 0.011415396597312463,
+    "rouge_l": 0.11999999539200020,
+    "llm_score": 5
+  },
+  {
+    "question": "How can ESG risks influence an institution’s reputation?",
+    "expected_answer": "Poor ESG risk management can lead to criticism and loss of trust among clients and investors, negatively affecting the institution’s image.",
+    "generated_answer": "ESG risks can influence an institution's reputation through regulation, communication, commitments, or public controversies regarding current and future business-related activities. These factors can directly or indirectly impact the institution by interacting with operational risk and strategic and business model risks, potentially leading to loss of business opportunities or strategic partnerships.",
+    "token_error_rate": 2.3333333333333335,
+    "bleu_score": 0.018787869441128754,
+    "rouge_l": 0.15873015439657356,
+    "llm_score": 5
+  },
+  {
+    "question": "What is 'social risk' in the ESG context?",
+    "expected_answer": "Risks related to social issues, such as poor labor conditions or negative community impacts, which can affect institutional stability.",
+    "generated_answer": "In the ESG context, social risk refers to the potential negative impacts that a company's activities or relationships can have on people, including workers, communities, consumers, and other stakeholders. This encompasses issues like labor practices, human rights, product safety, data privacy, community relations, and diversity and inclusion.",
+    "token_error_rate": 2.4210526315789473,
+    "bleu_score": 0.01039273438175822,
+    "rouge_l": 0.15873015451751080,
+    "llm_score": 5
+  },
+  {
+    "question": "How do ESG guidelines help improve risk management in financial institutions?",
+    "expected_answer": "They provide a clear framework with standards and methods that facilitate structured and coherent risk identification, measurement, and management.",
+    "generated_answer": "ESG guidelines help improve risk management in financial institutions by providing a framework to incorporate environmental, social, and governance risks into their broader risk management processes. The guidelines encourage institutions to consider ESG factors as potential drivers of traditional financial risks like credit, market, operational, reputational, liquidity, and concentration risks. They promote a comprehensive approach where ESG risks are integrated into overall business and risk strategies, with institutions developing robust methods to identify, measure, manage and mitigate these risks over",
+    "token_error_rate": 3.9473684210526314,
+    "bleu_score": 0.00706673472419653,
+    "rouge_l": 0.15584415240344080,
+    "llm_score": 5
+  },
+  {
+    "question": "What is a KRI and why is it important in monitoring ESG risks?",
+    "expected_answer": "A Key Risk Indicator (KRI) is a measure that signals potential problems early, allowing prompt action to prevent negative impacts.",
+    "generated_answer": "A KRI (Key Risk Indicator) is an important metric used to monitor and measure specific risk factors. In the context of ESG risks, KRIs are crucial for translating the risk appetite into concrete, measurable indicators that align with the institution's risk management framework. They allow institutions to quantify and track their exposure to environmental, social, and governance risks over time, enabling proactive risk management and informed decision-making.",
+    "token_error_rate": 3.05,
+    "bleu_score": 0.007419728056146471,
+    "rouge_l": 0.13157894349030483,
+    "llm_score": 5
+  },
+  {
+    "question": "How do ESG risks relate to corporate sustainability?",
+    "expected_answer": "Properly managing ESG risks makes an institution more resilient and better prepared to operate sustainably over the long term.",
+    "generated_answer": "ESG risks are directly linked to corporate sustainability, as they represent potential threats to a company's long-term viability and success based on environmental, social, and governance factors. Managing these risks is crucial for ensuring a company's sustainable operations and maintaining its reputation, financial stability, and ability to adapt to changing regulatory and market conditions in the transition to a more sustainable economy.",
+    "token_error_rate": 3.1052631578947367,
+    "bleu_score": 0.01397730436137016,
+    "rouge_l": 0.14705881950259528,
+    "llm_score": 5
+  },
+  {
+    "question": "What does it mean that ESG risks can affect traditional risks like credit or market risks?",
+    "expected_answer": "It means environmental, social, and governance factors can influence the institution’s ability to manage known risks, impacting operations and results.",
+    "generated_answer": "ESG risks can act as drivers or amplifiers of traditional financial risks like credit risk, market risk, operational risk, liquidity risk, and others. This means that environmental, social, and governance factors can impact and potentially exacerbate these conventional risk categories that financial institutions already monitor and manage. For example, climate-related physical risks could increase credit risk by damaging collateral assets, or transition risks could affect the market value of certain securities tied to carbon-intensive industries.",
+    "token_error_rate": 3.25,
+    "bleu_score": 0.06734428210674351,
+    "rouge_l": 0.23684210151315793,
+    "llm_score": 5
+  },
+  {
+    "question": "Why is it important for institutions to collect specific data on their ESG exposures?",
+    "expected_answer": "Collecting data provides precise insights into exposure areas, facilitating decision-making to mitigate those risks.",
+    "generated_answer": "Collecting specific ESG data allows institutions to accurately assess and manage their ESG risks, identify concentrations, monitor trends, and make informed decisions about their exposures. It enables more precise measurement and analysis compared to relying solely on public or proxy data.",
+    "token_error_rate": 2.7142857142857144,
+    "bleu_score": 0.010131258124151324,
+    "rouge_l": 0.16326530204081643,
+    "llm_score": 5
+  },
+  {
+    "question": "What role does third-party sustainability data play in ESG risk assessment?",
+    "expected_answer": "These data complement internal information, offering a broader view and enabling comparisons with other institutions.",
+    "generated_answer": "Third-party sustainability data plays an important role in ESG risk assessment by complementing institutions' internal data gathering efforts. Institutions are expected to regularly review and utilize sustainability information disclosed by their counterparties, particularly information reported in accordance with European Sustainability Reporting Standards or voluntary reporting standards for SMEs. This external data helps institutions assess, manage, and monitor current and forward-looking ESG risks associated with their counterparties at an appropriately granular level.",
+    "token_error_rate": 4.4,
+    "bleu_score": 0.006383751047634851,
+    "rouge_l": 0.10810810487582187,
+    "llm_score": 5
+  },
+  {
+    "question": "How does a transition plan relate to ESG risk management?",
+    "expected_answer": "The transition plan sets steps and objectives to adapt to environmental and social changes, helping reduce transformation-related risks.",
+    "generated_answer": "Transition plans are recognized as a risk management tool for ESG risks. They provide an overview of the strategic actions and risk management tools deployed by institutions to demonstrate their robustness towards ESG risks and preparedness for the transition to a more sustainable economy. The plans should address forward-looking ESG risk management aspects while being consistent with other applicable requirements.",
+    "token_error_rate": 3.1666666666666665,
+    "bleu_score": 0.00846376850987984,
+    "rouge_l": 0.12698412319475950,
+    "llm_score": 5
+  },
+  {
+    "question": "What does it mean that the guidelines consider a 10-year horizon for risk assessment?",
+    "expected_answer": "Institutions must plan long term, considering how risks will evolve and preparing for significant future changes.",
+    "generated_answer": "The guidelines specify that institutions should establish a long-term planning horizon of at least 10 years as part of their plans for assessing and managing ESG risks. This 10-year minimum horizon is intended to ensure that banks take a sufficiently long-term view when evaluating potential environmental, social and governance risks to their business.",
+    "token_error_rate": 3.125,
+    "bleu_score": 0.007601858788372934,
+    "rouge_l": 0.06666666275555579,
+    "llm_score": 5
+  },
+  {
+    "question": "How can climate change affect a financial institution’s operations?",
+    "expected_answer": "Climate change can cause extreme events or policy shifts that disrupt operations and affect financial stability.",
+    "generated_answer": "Climate change can affect a financial institution's operations through both transition and physical risks. Transition risks may arise from policy changes, technological shifts, or market sentiment as the economy moves towards lower carbon emissions, potentially impacting the value of certain assets or investments. Physical risks from extreme weather events or long-term climate shifts could damage property, disrupt business operations, or affect the creditworthiness of borrowers, leading to financial losses for the institution.",
+    "token_error_rate": 3.875,
+    "bleu_score": 0.028668699620526754,
+    "rouge_l": 0.2894736808864266,
+    "llm_score": 5
+  },
+  {
+    "question": "Why is it necessary to integrate both quantitative and qualitative data in ESG risk assessment?",
+    "expected_answer": "Combining both types of data provides a complete view, enabling precise risk identification and understanding of potential impacts.",
+    "generated_answer": "Institutions should implement a combination of qualitative and quantitative approaches to provide a more comprehensive assessment of ESG risks. Quantitative methods offer measurable data points, while qualitative methods can capture aspects that may not be easily quantified, especially in areas where quantitative data is limited or not yet fully developed for ESG factors.",
+    "token_error_rate": 2.8333333333333335,
+    "bleu_score": 0.008637379176500492,
+    "rouge_l": 0.12903225408428734,
+    "llm_score": 5
+  },
+  {
+    "question": "What does 'materiality' imply in ESG risk management?",
+    "expected_answer": "It refers to identifying which risks are truly important for the institution, helping prioritize actions and allocate resources by potential impact.",
+    "generated_answer": "In ESG risk management, materiality implies assessing the financial significance of ESG risks for an institution's business model and risk profile. Institutions should conduct regular materiality assessments to identify which ESG risks are most likely to have substantial financial impacts on their operations. This assessment helps determine which ESG risks require more extensive measurement methods, management arrangements, and transition planning processes.",
+    "token_error_rate": 2.761904761904762,
+    "bleu_score": 0.014741572548551957,
+    "rouge_l": 0.16901408034120222,
+    "llm_score": 5
+  },
+  {
+    "question": "What benefits does periodic updating of an ESG assessment bring to an institution?",
+    "expected_answer": "Updating allows adaptation to new risks and opportunities, improving responsiveness and strengthening institutional resilience.",
+    "generated_answer": "Periodic updating of ESG assessments allows institutions to incorporate new information such as updated materiality assessments, portfolio developments, new scenarios and benchmarks, and regulatory changes. This helps ensure the institution's ESG plans and strategies remain current and aligned with evolving risks and opportunities.",
+    "token_error_rate": 2.7142857142857144,
+    "bleu_score": 0.01945598109383297,
+    "rouge_l": 0.15999999615200008,
+    "llm_score": 5
+  },
+  {
+    "question": "How do public policies influence ESG risk management?",
+    "expected_answer": "Public policies can change the regulatory and market environment, so institutions must adjust strategies to comply with new regulations and leverage incentives.",
+    "generated_answer": "Public policies can significantly influence ESG risk management by setting regulatory requirements, disclosure standards, and incentives for institutions to address environmental, social, and governance risks. For example, the introduction of Article 87a in the CRD requires institutions to have robust strategies, policies, processes and systems for identifying, measuring, managing and monitoring ESG risks over short, medium and long-term horizons.",
+    "token_error_rate": 2.3181818181818183,
+    "bleu_score": 0.028630695215659523,
+    "rouge_l": 0.22857142437142860,
+    "llm_score": 5
+  },
+  {
+    "question": "What role does technology play in collecting and analyzing data for ESG risks?",
+    "expected_answer": "Technology facilitates gathering, analyzing, and monitoring large volumes of data, improving accuracy and efficiency in ESG risk evaluation and management.",
+    "generated_answer": "Technology plays a crucial role in collecting and analyzing ESG data by enabling institutions to aggregate publicly available information, gather additional data from clients and counterparties, utilize third-party data sources, and employ proxies or portfolio-level assessments when needed to evaluate current and forward-looking ESG risks.",
+    "token_error_rate": 2.0,
+    "bleu_score": 0.010371172583435884,
+    "rouge_l": 0.14285713849489810,
+    "llm_score": 5
+  },
+  {
+    "question": "How can clients and stakeholders influence an institution’s ESG risk management?",
+    "expected_answer": "Their expectations and pressure can drive the institution to improve sustainability practices and transparency in risk management.",
+    "generated_answer": "Institutions should apply a range of risk management tools including engagement with counterparties. This suggests that clients and stakeholders can influence an institution's ESG risk management through direct engagement and dialogue, allowing them to provide input and potentially shape the institution's approach to managing ESG risks.",
+    "token_error_rate": 2.588235294117647,
+    "bleu_score": 0.010181832882152436,
+    "rouge_l": 0.14814814397805223,
+    "llm_score": 5
+  }
+]

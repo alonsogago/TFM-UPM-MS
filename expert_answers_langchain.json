@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What are the main methodological components for identifying and measuring ESG risks?",
+        "expected_answer": "Combined methodologies are employed based on exposure, sectoral analysis, portfolio assessment, and scenario studies, allowing for the evaluation of both transition risks and physical risks.",
+        "generated_answer": "The main methodological components for identifying and measuring ESG risks include gathering and using information to assess current and forward-looking ESG risks, utilizing available ESG data, collecting additional data from clients and counterparties when needed, using third-party data where appropriate, and employing proxies or portfolio-level assessments for certain counterparties when necessary."
+    },
+    {
+        "question": "How should materiality assessment be carried out in the ESG context?",
+        "expected_answer": "The assessment must be tailored to each institution, integrating qualitative and quantitative analyses, and mapping ESG factors to their transmission channels into traditional risks.",
+        "generated_answer": "The materiality assessment of ESG risks should be performed as an institution-specific assessment that provides a view on the financial materiality of ESG risks for the institution's business model and risk profile. It should use a risk-based approach considering the likelihood of occurrence and potential magnitude of financial effects of ESG risks. The assessment should be conducted at least annually, or every two years for small and non-complex institutions, and updated more frequently if there are material changes to the business environment related to"
+    },
+    {
+        "question": "What criteria are used to determine the materiality of an ESG risk?",
+        "expected_answer": "Probability of occurrence, magnitude of financial impact, exposure, and relevance to the institution’s strategy are considered.",
+        "generated_answer": "The materiality assessment of ESG risks should be performed as an institution-specific assessment, taking into account the institution's business model, portfolios, operations, and the business environment related to ESG factors. Institutions should substantiate and document their materiality assessments, including the methodologies and thresholds used, inputs and factors considered, and main results and conclusions reached."
+    },
+    {
+        "question": "How are ESG risks integrated into ICAAP and ILAAP processes?",
+        "expected_answer": "Institutions must incorporate ESG risk assessments into their capital and liquidity adequacy processes, adjusting time horizons and methodologies to reflect these risks.",
+        "generated_answer": "ESG risks should be integrated into ICAAP and ILAAP frameworks by including a description of the risk appetite, thresholds and limits set for material ESG risks and their impacts on solvency or liquidity. Institutions should provide contextual information to explain their analysis of capital and liquidity implications of ESG risks, including clarity on methodologies and assumptions used. The complexity of processes and sophistication of methodologies for integrating ESG risks should be proportionate to"
+    },
+    {
+        "question": "What role do scenario analyses play in ESG risk management?",
+        "expected_answer": "They allow institutions to evaluate resilience against various adverse scenarios, integrating environmental and social variables to adjust strategies and capital requirements.",
+        "generated_answer": "Scenario analyses play an important role in ESG risk management by allowing institutions to assess their sensitivities to ESG risks across different time horizons, including long-term ones. They are used alongside other methodologies like exposure-based, sector-based, and portfolio-based approaches to comprehensively assess ESG risks over relevant time periods. Specifically, scenario-based methods help support medium-term planning, define risk limits and risk appetite, and evaluate long-term ESG risk"
+    },
+    {
+        "question": "What challenges exist in the availability and quality of data for evaluating ESG risks?",
+        "expected_answer": "There is often a lack of historical data, variability in information quality, and a need to rely on proxies or estimates to fill information gaps.",
+        "generated_answer": "The guidelines indicate that institutions face challenges with the availability and quality of data for evaluating ESG risks. Specifically, they note that institutions may need to rely on a combination of publicly available ESG data, additional data collected directly from clients and counterparties, third-party data sources, and the use of proxies or portfolio-level assessments where needed for certain counterparties."
+    },
+    {
+        "question": "What implications does integrating ESG risks have on an institution’s risk appetite?",
+        "expected_answer": "It should be reflected in the definition of limits, thresholds, and specific KRIs, adapting the risk appetite to the materiality and complexity of ESG factors.",
+        "generated_answer": "Integrating ESG risks into an institution's risk appetite requires specifying the level and types of ESG risks the institution is willing to assume in its portfolio, including concentration and diversification objectives. The risk appetite should be implemented using ESG-related key risk indicators, which may include limits, thresholds or exclusions."
+    },
+    {
+        "question": "How are portfolio alignment methodologies applied in ESG analysis?",
+        "expected_answer": "These methodologies measure how portfolios align with transition pathways and sustainability scenarios, identifying risk concentrations and significant deviations.",
+        "generated_answer": "Portfolio alignment methodologies are applied in ESG analysis to assess how well an institution's portfolio aligns with climate or environmental goals. They are used alongside other approaches like exposure-based, sector-based, and scenario-based methodologies to provide a comprehensive view of ESG risks. Portfolio alignment tools help provide a \"big picture\" perspective, but should complement rather than replace other analytical approaches."
+    },
+    {
+        "question": "How important are vulnerability assessments to physical risks?",
+        "expected_answer": "They are essential for determining geographic exposure and sensitivity of critical assets to physical events, informing resilience and the need for mitigation measures.",
+        "generated_answer": "Vulnerability assessments are crucial for institutions to evaluate their exposure to physical risks. Institutions are responsible for conducting robust assessments using both qualitative and quantitative information and considering a sufficiently large scope of environmental factors to determine materiality of physical risks for their specific exposures and geographical areas."
+    },
+    {
+        "question": "How are transition risks incorporated into credit scoring models?",
+        "expected_answer": "Variables related to emissions, energy efficiency, and transition policies are incorporated, adjusting credit evaluation to the counterparty’s ESG exposure.",
+        "generated_answer": "According to the guidelines, institutions should ensure that environmental, social and governance (ESG) factors, particularly environmental factors, are taken into account in assessing a borrower's overall default risk and, where materially relevant, incorporated into credit scoring or rating models."
+    },
+    {
+        "question": "What mitigation measures are recommended for managing ESG risks in credit portfolios?",
+        "expected_answer": "Recommended measures include adjusting financial conditions, diversification, setting sectoral limits, and engaging to improve counterparties’ ESG practices.",
+        "generated_answer": "The recommended mitigation measures for managing ESG risks in credit portfolios include:\n\nEngaging with counterparties to understand and support their transition efforts, adjusting financial terms and pricing based on ESG risk criteria, considering ESG risks when developing sectoral policies and setting exposure limits, diversifying lending and investment portfolios based on ESG risk factors, and as a last resort, ceasing relationships with counterparties deemed incompatible with the institution's risk appetite and planning."
+    },
+    {
+        "question": "How should methodologies and assumptions be documented in ESG assessment?",
+        "expected_answer": "It is essential to justify scenario choices, selection criteria, and any methodological changes, ensuring transparency and consistency in internal processes.",
+        "generated_answer": "Institutions should substantiate and document their materiality assessments of ESG risks as part of their ICAAP, including the methodologies and thresholds used, inputs and factors considered, and main results and conclusions reached, including any non-materiality conclusions."
+    },
+    {
+        "question": "What role do KRIs play in monitoring ESG risks?",
+        "expected_answer": "KRIs allow setting operational limits and early-warning alerts, facilitating continuous monitoring and proactive management of ESG exposures.",
+        "generated_answer": "KRIs play a key role in translating the institution's risk appetite into concrete indicators for monitoring ESG risks. They should be used to define the ESG risk appetite, anchor ESG risk considerations across different levels and areas of the institution, and be subject to monitoring and escalation processes."
+    },
+    {
+        "question": "How should ESG risks be integrated into internal governance structures?",
+        "expected_answer": "Clear responsibilities must be assigned, ESG training promoted, and controls and reporting established to embed these risks in corporate governance.",
+        "generated_answer": "Institutions should integrate ESG risks into their internal control frameworks across the three lines of defense. This includes clearly defining and assigning ESG risk responsibilities and reporting lines. The first line of defense should be responsible for assessing ESG risks during client onboarding, credit applications, reviews, and ongoing monitoring. The management body should approve ESG-related plans, oversee their implementation, and receive regular updates on progress. Institutions should also involve relevant units like strategic planning, risk management,"
+    },
+    {
+        "question": "What role do external and third-party data play in ESG risk assessment?",
+        "expected_answer": "They are fundamental for complementing internal information, using sustainability reports, international standards, and comparative data to enrich analysis.",
+        "generated_answer": "According to the guidelines, institutions can use external and third-party data to supplement available ESG data when assessing ESG risks. The preferred approach allows institutions to gather information from various sources, including using third-party data and proxies where needed, especially when direct data collection from clients is difficult or data is unavailable."
+    },
+    {
+        "question": "How is the inherent uncertainty in measuring ESG risks addressed?",
+        "expected_answer": "Through sensitivity analyses, alternative scenarios, and adjustments in capital planning to mitigate uncertainty from incomplete historical data.",
+        "generated_answer": "The guidelines acknowledge the inherent uncertainty in measuring ESG risks by requiring institutions to develop and implement measurement methods, risk management arrangements, and transition planning processes that are commensurate with and informed by the outcomes of their materiality assessments of ESG risks. This allows for a proportionate approach that can account for uncertainties, with more extensive and sophisticated arrangements required for ESG risks identified as material."
+    },
+    {
+        "question": "What regulatory implications do these ESG guidelines have for financial institutions?",
+        "expected_answer": "They require integrating ESG risks in internal management, reporting, and adjustments in capital structure and governance, in line with regulatory demands.",
+        "generated_answer": "These ESG guidelines have several regulatory implications for financial institutions:\n\n1. Financial institutions must incorporate ESG risks into their overall risk management frameworks and processes, treating them as potential drivers of traditional financial risks.\n\n2. Institutions need to embed ESG risks within their business and risk strategies, including plans required under Article 76(2) of Directive 2013/36/EU.\n\n3. ESG risks must be integrated into credit risk policies and procedures, including credit sectoral"
+    },
+    {
+        "question": "How does ESG analysis relate to long-term sustainability objectives?",
+        "expected_answer": "It enables institutions to align their risk strategies with sustainability goals, anticipating regulatory and market changes to ensure long-term resilience.",
+        "generated_answer": "ESG analysis helps institutions assess and manage risks related to long-term sustainability objectives. Institutions are expected to set quantifiable targets and processes to monitor and address ESG risks in the short, medium and long-term, taking into account their sustainability-related products, transition finance policies, loan origination practices, and ESG targets. This allows them to align their strategies and operations with broader sustainability goals and regulatory requirements over time."
+    },
+    {
+        "question": "What role do transition plans play in ESG risk mitigation?",
+        "expected_answer": "They are crucial for defining concrete actions, setting milestones, and adapting strategies over horizons of 10 years or more, reducing exposure to emerging risks.",
+        "generated_answer": "Transition plans play a key role in ESG risk mitigation by:\n\n1. Providing an overview of strategic actions and risk management tools institutions use to ensure robustness against ESG risks.\n\n2. Demonstrating preparedness for transitioning to a more sustainable and climate-resilient economy. \n\n3. Addressing forward-looking ESG risk management aspects.\n\n4. Helping institutions formulate, implement and monitor plans and targets related to ESG risks."
+    },
+    {
+        "question": "How can integrating ESG risks improve an institution’s competitiveness?",
+        "expected_answer": "By proactively managing these risks, institutions optimize their risk structure, strengthen corporate image, and better prepare for future regulatory requirements, enhancing market position.",
+        "generated_answer": "Integrating ESG risks can improve an institution's competitiveness by enhancing its ability to identify and manage potential financial risks, adapt to changing market conditions, and align with evolving regulatory requirements. This proactive approach allows institutions to better anticipate and mitigate risks, potentially leading to improved financial performance and increased resilience in the face of ESG-related challenges."
+    },
+    {
+        "question": "What is the application date of the guidelines for large institutions and for SNCIs?",
+        "expected_answer": "They enter into force on January 11, 2026 for large institutions and, at the latest, on January 11, 2027 for small and non-complex institutions (SNCIs).",
+        "generated_answer": "The guidelines will apply from 11 January 2026 for large institutions, while for small and non-complex institutions (SNCIs) they will apply at the latest from 11 January 2027."
+    },
+    {
+        "question": "How is the principle of proportionality addressed in ESG risk management according to these guidelines?",
+        "expected_answer": "It is applied by considering risk materiality based on the institution’s activity and complexity, allowing adjustment of assessment frequency and scope according to size and exposure.",
+        "generated_answer": "The guidelines address proportionality in ESG risk management in several ways:\n\n1. Proportionality is applied throughout the guidelines, allowing institutions to focus on the most material risks.\n\n2. The guidelines clarify that all requirements are subject to the materiality principle.\n\n3. If materiality assessments do not identify material ESG risk transmission channels, requirements like data identification, counterparty engagement, and internal reporting metrics should be considered proportionately, regardless of institution size."
+    },
+    {
+        "question": "What legislative changes prompted the issuance of these ESG guidelines?",
+        "expected_answer": "They respond to amendments introduced in the CRD and CRR, as well as initiatives like the European Green Deal, the Paris Agreement, and other sustainability-oriented frameworks.",
+        "generated_answer": "The guidelines were prompted by amendments to Directive 2013/36/EU (the Capital Requirements Directive), which required the EBA to publish guidelines on the management of ESG risks within 18 months from the date of entry into force of the amending directive."
+    },
+    {
+        "question": "How is ESG risk analysis integrated into operational and reputational risk assessment?",
+        "expected_answer": "By identifying ESG factors that may impact operations and reputation, and incorporating them into risk models that assess both direct and indirect effects.",
+        "generated_answer": "ESG risks should be considered as potential drivers of operational and reputational risks. Institutions should embed ESG risks within their regular risk management systems and processes, ensuring consistency with their overall business and risk strategies. For reputational risk specifically, institutions should track how regulation, communication, commitments or public controversies regarding current and future business-related activities impact the institution, considering interactions with operational risk and strategic/business model risks."
+    },
+    {
+        "question": "What role do ESG guidelines play in financial institutions’ transition strategies?",
+        "expected_answer": "They provide a framework to develop transition plans with objectives, milestones, and mitigation measures, aligning corporate strategy with long-term sustainability goals.",
+        "generated_answer": "According to the context, ESG guidelines play an important role in financial institutions' transition strategies by:\n\n1. Requiring institutions to comprehensively assess and embed forward-looking ESG risk considerations in their strategies, policies and risk management processes.\n\n2. Specifying requirements for transition plans that focus on risk-based planning from a micro-prudential perspective.\n\n3. Ensuring institutions take a long-term view to maintain soundness and resilience against ESG risks."
+    },
+    {
+        "question": "How are these ESG guidelines linked to the European Green Deal and sustainability legislation?",
+        "expected_answer": "They align by incorporating requirements to achieve carbon neutrality, improve resilience to environmental risks, and promote sustainable practices in line with international and EU regulations.",
+        "generated_answer": "The guidelines are linked to the European Green Deal and sustainability legislation by requiring institutions to have plans to address risks arising from the transition and adjustment process to relevant sustainability legal and regulatory objectives, including the EU's climate neutrality goal for 2050 as set out in Regulation (EU) 2021/1119."
+    },
+    {
+        "question": "What specific requirements are set for managing environmental risks versus social and governance risks?",
+        "expected_answer": "Differentiated methodologies are required: environmental risks quantify physical and transition risks, while social and governance risks are initially addressed qualitatively, evolving progressively toward quantitative indicators.",
+        "generated_answer": "The guidelines maintain a stronger emphasis on environmental risks, while still containing minimum requirements for social and governance risks. The approaches for social and governance risks are expected to be less developed compared to environmental risks at this stage. The guidelines recognize that methodologies and data for assessing social and governance risks are less advanced, so a best effort approach is recommended for assessing their materiality currently."
+    },
+    {
+        "question": "How should a transition plan be structured according to these ESG guidelines?",
+        "expected_answer": "It must include specific objectives, timelines, intermediate milestones, mitigation measures, and a clear strategy to address transition-related risks within the overall strategic planning.",
+        "generated_answer": "According to the guidelines, a transition plan should be structured as an output of a single transition planning process that addresses all material ESG risks. The plan should involve relevant units and departments like strategic planning, risk management, sustainability disclosures, legal services and compliance in its elaboration. It should be based on sound data management processes to collect, validate and aggregate necessary data. The guidelines focus on providing core expectations and main features for the plans while allowing institutions flexibility on specific details and target levels. An"
+    },
+    {
+        "question": "What role does long-term resilience (at least 10 years) play in the ESG guidelines’ approach?",
+        "expected_answer": "It is fundamental, as the guidelines require institutions to consider a minimum 10-year horizon in their assessments, ensuring preparation for structural changes and emerging risks.",
+        "generated_answer": "The guidelines require institutions to test their resilience to long-term ESG impacts over a horizon of at least 10 years. This long-term perspective is meant to ensure institutions consider ESG risks and strategic implications over an extended timeframe, though with less granularity than short and medium-term assessments. Institutions must develop a robust approach to managing and mitigating ESG risks over this long-term horizon of at least 10 years, in addition to short an"
+    },
+    {
+        "question": "What considerations should be taken into account when using proxies and estimates in ESG risk measurement?",
+        "expected_answer": "Assumptions must be documented, methodologies validated, and results adjusted as data quality and availability improve to minimize uncertainty from proxy use.",
+        "generated_answer": "When using proxies and estimates for ESG risk measurement, institutions should:\n\n1. Document and justify their choices of specific proxies and estimates.\n\n2. Assess data gaps and their potential impacts on risk management.\n\n3. Take remediating actions, including using estimates or proxies based on sectoral or regional characteristics.\n\n4. Make adjustments to account for counterparty-specific aspects when feasible.\n\n5. Seek to reduce reliance on proxies an"
+    },
+    {
+        "question": "How do these guidelines contribute to the convergence of ESG practices across Europe?",
+        "expected_answer": "By setting minimum standards and reference methodologies, they facilitate uniform application across jurisdictions, promoting comparability and cooperation among EU supervisory authorities.",
+        "generated_answer": "These guidelines contribute to the convergence of ESG practices across Europe by providing harmonized and generally applicable requirements for institutions to identify, measure, manage and monitor ESG risks. They specify minimum standards, criteria and methodologies that institutions should implement, which helps create a more consistent approach to ESG risk management across European financial institutions."
+    },
+    {
+        "question": "What differences exist in applying these guidelines between large institutions and SNCIs?",
+        "expected_answer": "Large institutions must meet more detailed requirements and more frequent updates, while SNCIs may apply simplified procedures and less complex approaches, based on materiality and exposure.",
+        "generated_answer": "The guidelines provide several simplifications for SNCIs (small and non-complex institutions) and other non-large institutions compared to large institutions:\n\n1. The frequency of updates for materiality assessments is less stringent for SNCIs.\n\n2. SNCIs can rely more extensively on qualitative considerations, estimates and proxies in their assessments.\n\n3. SNCIs are allowed to use fewer and less granular risk assessment methodologies.\n\n4. SNCIs"
+    },
+    {
+        "question": "What reporting and communication measures are required for ESG guideline compliance?",
+        "expected_answer": "Institutions must notify competent authorities of their compliance level, submit transparent reports, and keep assessments and transition plans up to date, ensuring periodic and clear communication.",
+        "generated_answer": "According to the guidelines, competent authorities must report to the EBA whether they comply or intend to comply with the guidelines, or provide reasons for non-compliance, within two months of the guidelines being published in all EU official languages. Financial institutions are also required to report, in a clear and detailed way, whether they comply with the guidelines."
+    },
+    {
+        "question": "How are the results of ESG materiality assessment reflected in an institution’s ICAAP?",
+        "expected_answer": "Results are integrated into capital requirement determinations, allowing the ICAAP to reflect ESG exposure and guide resource allocation and mitigation measures appropriately.",
+        "generated_answer": "The results of the ESG materiality assessment should be integrated into and consistent with the institution's Internal Capital Adequacy Assessment Process (ICAAP) materiality assessment. Institutions are expected to substantiate and document their ESG risk materiality assessments, including methodologies, thresholds, inputs, and conclusions, as part of their ICAAP."
+    },
+    {
+        "question": "What interrelation exists between ESG risks and traditional risks according to these guidelines?",
+        "expected_answer": "ESG factors are seen as drivers of traditional risks—credit, market, operational, and reputational—and are integrated into a holistic risk management framework.",
+        "generated_answer": "The guidelines recognize that ESG risks are not an independent risk type, but rather act as transversal drivers that influence traditional risk categories. ESG risks are viewed as factors that can impact and exacerbate existing financial and non-financial risks that institutions face."
+    },
+    {
+        "question": "How is the impact of biodiversity degradation evaluated in ESG risk analysis?",
+        "expected_answer": "By measuring asset and operational dependence on ecosystem services, analyzing both direct impacts and chain effects on financial stability.",
+        "generated_answer": "According to the guidelines, institutions should assess and manage impacts from a range of environmental risks beyond just climate-related risks, including risks stemming from the degradation of ecosystems and biodiversity loss. The guidelines suggest monitoring metrics related to portfolio-level dependencies and impacts on ecosystem services, as well as exposures to counterparties with material dependencies or negative impacts on biodiversity, taking into account both sectoral and geographical location information."
+    },
+    {
+        "question": "What methodologies are recommended to quantify physical risks from extreme climate events?",
+        "expected_answer": "Approaches based on geographic data, vulnerability analysis, and climate scenarios are recommended to estimate probabilities and magnitudes of impact according to asset exposure.",
+        "generated_answer": "The context recommends quantifying climate-related risks by estimating the probabilities of materialization and magnitude of financial impacts stemming from climate-related factors. It suggests using internal procedures and methodologies to properly understand and quantify the financial risks that may result from environmental risks, including those stemming from climate-related factors and the degradation of nature."
+    },
+    {
+        "question": "How is uncertainty in long-term scenario projections addressed in ESG analysis?",
+        "expected_answer": "Through sensitivity analyses and the creation of multiple scientific-based scenarios, enabling strategy adjustments for various environmental evolutions.",
+        "generated_answer": "The guidelines acknowledge that long-term ESG scenarios involve significant uncertainty, especially when translating them into financial risk projections. Specifically:\n\n1. Science-based ESG scenarios do not easily translate into financial risk scenarios, requiring an overhaul of current market practices.\n\n2. Immediately including all long-term ESG factors in financial forecasts like ICAAP carries the risk of basing analysis on forward-looking elements whose financial impact is not yet evidenced."
+    },
+    {
+        "question": "What criteria should be used to validate the quality of external data in ESG analysis?",
+        "expected_answer": "Source, consistency, timeliness, and relevance should be evaluated, comparing with internal and market data to ensure a robust evaluation basis.",
+        "generated_answer": "Institutions should ensure they have a sufficient understanding of the sources, data and methodologies used by data providers, including their potential limitations. They should assess any gaps in data quality or availability and document remediating actions, such as using estimates or proxies when necessary, while aiming to reduce reliance on these over time as ESG data improves."
+    },
+    {
+        "question": "What is the role of prudential supervision in applying these ESG guidelines?",
+        "expected_answer": "Prudential supervision ensures proper implementation of requirements, evaluating adequate integration and management of ESG risks to promote financial system stability.",
+        "generated_answer": "Prudential supervisors will assess institutions' plans for implementing these ESG guidelines as part of the supervisory review and evaluation process. The guidelines focus on incorporating ESG risks into risk management processes from a prudential perspective, rather than on public disclosure requirements."
+    }
+]
